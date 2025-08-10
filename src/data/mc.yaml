@@ -1,4 +1,4 @@
-# 2025-08-02 14:54:54
+# 2025-08-10 01:05:08
 - index: 1
   name: WAR
   palettes:
@@ -1461,103 +1461,103 @@
   - index: 9
     macros:
     - index: 1
-      title: ''
+      title: 挑発(強)
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 152 echo 敵対心＋
+      - /ja 挑発 <t> <wait>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
       - ''
     - index: 2
-      title: ''
+      title: 星眼心眼
       lines:
-      - ''
-      - ''
+      - /ja 【星眼】 <me> <wait>
+      - /ja 【心眼】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: ''
+      title: バーサク
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ＰＭロリカ+3】
+      - 【/equip】 【両足】 【ＡＧカリガ+3】
+      - /ja 【バーサク】 <me> <wait 1>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 4
-      title: ''
+      title: 八双
       lines:
-      - ''
-      - ''
+      - /ja 【八双】 <me>
+      - 【/checkparam】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: 黙想
       lines:
-      - ''
+      - /ja 【黙想】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ポンブレ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 151 echo 魔命
+      - /p ◇【ウェポンブレイク】→<t>
+      - /ws 【ウェポンブレイク】 <t> <wait>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 7
-      title: ''
+      title: アップル
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 144 echo 防御【アップヒーバル】
+      - 【/checkparam】 <me>
+      - /ws 【アップヒーバル】 <t> <wait>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 8
-      title: ''
+      title: リストレ
       lines:
-      - ''
+      - /ja 【リストレント】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: ''
+      title: ブラッド
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /p ◇【ブラッドレイジ】 <recast=【ブラッドレイジ】>
+      - 【/equip】 【胴】 【ＢＩロリカ+3】
+      - /ja 【ブラッドレイジ】 <me> <wait 1>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 10
-      title: ''
+      title: ★ファラ
       lines:
-      - ''
-      - ''
+      - 【/echo】 ◇◇◇被【ファランクス】
+      - 【/equipset】 142 echo 被【ファランクス】
       - ''
       - ''
       - ''
       - ''
     - index: 11
-      title: ''
+      title: 防シャン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇◇◇【シャンゴル】
+      - 【/equipset】 155 echo 防御装備
+      - 【/equip】 【メインウェポン】 【シャンゴル】
+      - 【/equip】 【サブウェポン】 【コーンスー】
+      - 【/checkparam】 <me>
       - ''
     - index: 12
       title: ''
@@ -1569,70 +1569,70 @@
       - ''
       - ''
     - index: 13
-      title: ''
+      title: 心眼
       lines:
-      - ''
+      - /ja 【心眼】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
+      - 【/echo】 ◇◇◇移動＆【リジェネ】
+      - 【/equipset】 154 echo 移動＆【リジェネ】
       - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: シルブレ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 151 echo 魔命
+      - /p ◇【シールドブレイク】→<t>
+      - /ws 【シールドブレイク】 <t> <wait>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 16
-      title: ''
+      title: アマブレ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 151 echo 魔命
+      - /p ◇【アーマーブレイク】→<t>
+      - /ws 【アーマーブレイク】 <t> <wait>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 17
-      title: ''
+      title: アップル
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 144 echo 防御【アップヒーバル】
+      - 【/checkparam】 <me>
+      - /ws 【アップヒーバル】 <t> <wait>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 18
-      title: ''
+      title: リタリ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【両手】 【ＰＭマフラ+3】
+      - 【/equip】 【両足】 【ＢＩカリガ+3】
+      - /ja 【リタリエーション】 <me> <wait 1>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 19
-      title: ''
+      title: クライ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /p ◇【ウォークライ】 <recast=【ウォークライ】>
+      - 【/equip】 【頭】 【ＡＧマスク+4】
+      - /ja 【ウォークライ】 <me> <wait 1>
+      - 【/equipset】 155 echo 防御装備
       - ''
       - ''
     - index: 20
-      title: ''
+      title: 防御装備
       lines:
       - ''
       - ''
@@ -9307,7 +9307,7 @@
       - 【/equipset】 4 echo 【回避】【トレジャーハンター】
       - 【/equip】 【矢弾】 【ダート】 0
       - 【/range】 <t> <wait 2>
-      - 【/equip】 【矢弾】 【ヤメラング】 6
+      - 【/equip】 【矢弾】 【オゲルミルオーブ+1】
       - ''
       - ''
     - index: 2
@@ -18055,7 +18055,7 @@
       - 【/equipset】 4 echo 【回避】【トレジャーハンター】
       - 【/equip】 【矢弾】 【ダート】 0
       - 【/range】 <t> <wait 2>
-      - 【/equip】 【矢弾】 【ヤメラング】 6
+      - 【/equip】 【矢弾】 【オゲルミルオーブ+1】
       - ''
       - ''
     - index: 2
@@ -18237,98 +18237,98 @@
     - index: 1
       title: ジェタst
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 76 echo 敵対心
-      - /ma 【ジェタチュラ】 <lastst> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【ジェタチュラ】 <stnpc>
+      - 【/equipset】 76 echo 敵対心 <wait 1>
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 2
       title: フラst
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 76 echo 敵対心
-      - /ma 【フラッシュ】 <lastst> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【フラッシュ】 <stnpc>
+      - 【/equipset】 76 echo 敵対心 <wait 1>
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 3
       title: フォイ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma フォイル <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 4
       title: ガイス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ガイストウォール】 <t>
       - 【/equipset】 77 echo 詠唱中断防御 <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 5
       title: シプソ〇
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 76 echo 敵対心
-      - /ma 【シープソング】 <t> <wait 3>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【シープソング】 <t>
+      - 【/equipset】 76 echo 敵対心 <wait 3>
+      - 【/equipset】 72 echo 待機
       - ''
       - ''
     - index: 6
       title: フォイ〇
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 76 echo 敵対心
-      - /ma フォイル <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma フォイル <me>
+      - 【/equipset】 76 echo 敵対心 <wait>
+      - 【/equipset】 72 echo 待機
       - ''
       - ''
     - index: 7
       title: バトゥタ
       lines:
-      - 【/equip】 【胴】 【アダマンアーマー】
       - 【/equip】 【頭】 【ＦＵバンド+3】
       - 【/equip】 【両手】 【ＦＵミトン+3】
       - /ja 【ソードプレイ】 <me> <wait 1>
       - /ja バットゥタ <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 8
       title: ビベイ
       lines:
       - 【/equip】 【メインウェポン】 【モルゲライ】
-      - 【/equip】 【胴】 【アダマンアーマー】
       - 【/equip】 【頭】 【ＥＲガレア+3】
       - 【/equip】 【両脚】 【ＲＮトラウザ+3】
       - /ja ビベイシャス <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 9
       title: ヴァレ単
       lines:
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【両脚】 【ＦＵトラウザ+4】
       - 【/equip】 【胴】 【ＲＮコート+4】
       - 【/equip】 【背】 【オーグマケープ】 2
-      - 【/equip】 【首】 【アンムーヴカラー+1】
       - /ja 【ヴァレション】 <me> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 10
       title: ヴァリ範
       lines:
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【両脚】 【ＦＵトラウザ+4】
       - 【/equip】 【胴】 【ＲＮコート+4】
       - 【/equip】 【背】 【オーグマケープ】 2
-      - 【/equip】 【首】 【アンムーヴカラー+1】
       - /ja 【ヴァリエンス】 <me> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 11
-      title: 維持装備
+      title: 待機装備
       lines:
-      - 【/equipset】 72 echo 維持装備
-      - 【/echo】 ◇◇◇維持装備 <recast=【エンボルド】>
+      - 【/equipset】 72 echo 待機
+      - 【/echo】 ◇◇◇待機装備 <recast=【エンボルド】>
       - ''
       - ''
       - ''
@@ -18345,66 +18345,66 @@
     - index: 13
       title: コクン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【コクーン】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 2>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 14
       title: ファラ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ファランクス】 <me>
-      - 【/equipset】 77 echo 詠唱中断防御 <wait 3>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 74 echo 詠唱中断防御【ファランクス】 <wait 3>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 15
       title: ストス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ストンスキン】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 16
       title: アイス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【アイススパイク】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 2>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 17
       title: ブリン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ブリンク】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 5>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 18
       title: アクア×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【アクアベール】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 19
       title: いやし×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【いやしの風】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 20
       title: ★集め★
       lines:
@@ -18422,7 +18422,7 @@
       - 【/equip】 【両手】 【ＲＮミトン+3】
       - /p ◇◇◇【ガンビット】：属性防御ダウン
       - /ja 【ガンビット】 <t> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
       - ''
       - ''
     - index: 2
@@ -18431,7 +18431,7 @@
       - 【/equip】 【両足】 【ＦＵブーツ+3】
       - /p ◇◇◇【レイク】：属性ランクダウン
       - /ja 【レイク】 <t> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
       - ''
       - ''
     - index: 3
@@ -18456,54 +18456,54 @@
       title: 敵サブタ
       lines:
       - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【オディリックサブタ】 <lastst> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 6
       title: 敵ガンビ
       lines:
       - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【ガンビット】 <lastst> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 7
       title: 敵レイク
       lines:
       - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【レイク】 <lastst> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 8
       title: 敵フルグ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【フルーグ】 <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 9
       title: 敵リエモ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【リエモン】 <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 10
       title: 敵ワンフ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【ワンフォアオール】 <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 11
@@ -18514,7 +18514,7 @@
       - 【/equip】 【両足】 【ヴォルトブーツ】
       - 【/equip】 【胴】 【アダマンアーマー】
       - /ws 【ショックウェーブ】 <t> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
     - index: 12
       title: 耐光：闇
       lines:
@@ -18528,25 +18528,25 @@
       title: 被リジェ
       lines:
       - 【/equip】 【メインウェポン】 【モルゲライ】
-      - 【/equip】 【右耳】 【エリラズピアス+1】
-      - 【/equip】 【左耳】 【ブラキュラピアス】
-      - 【/party】 ◇【リジェネ】待機します。
+      - 【/party】 ◇【リジェネ】【待機します。】
+      - ''
+      - ''
       - ''
       - ''
     - index: 14
       title: 被ファラ
       lines:
+      - 【/echo】 ◇◇◇【ザルフィカール】◇◇◇
       - 【/equip】 【メインウェポン】 【ザルフィカール】
+      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 73 echo 【ファランクス】
-      - 【/party】 ◇【ファランクス】待機します。
-      - ''
-      - ''
+      - 【/party】 ◇【ファランクス】【待機します。】
       - ''
     - index: 15
-      title: ''
+      title: 被プロ
       lines:
-      - ''
-      - ''
+      - 【/equip】 【右耳】 【ブラキュラピアス】
+      - 【/party】 ◇【プロテス】【待機します。】
       - ''
       - ''
       - ''
@@ -18554,39 +18554,39 @@
     - index: 16
       title: 自ファラ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【胴】 【アダマンアーマー】
-      - /ma 【ファランクス】 <me>
+      - 【/equip】 【左手の指】 【メダダリング】
+      - 【/equip】 【背】 【月光の羽衣】
+      - /ma 【ファランクス】 <me> <stpt>
       - 【/equipset】 73 echo 【ファランクス】 <wait 3>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 17
       title: Eファラ
       lines:
       - /p ◇【エンボルド】使います <recast=【エンボルド】>
       - /ja 【エンボルド】 <me> <stpt>
-      - 【/equipset】 73 echo 【ファランクス】
+      - 【/echo】 ◇◇◇【ザルフィカール】◇◇◇
       - 【/equip】 【メインウェポン】 【ザルフィカール】
-      - ''
-      - ''
+      - 【/equip】 【背】 【月光の羽衣】
+      - 【/equipset】 73 echo 【ファランクス】
     - index: 18
       title: 敵スフォ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja E.スフォルツォ <me> <wait 1>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 19
       title: クルセ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma クルセード <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 3>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 20
       title: ★集め★
       lines:
@@ -18602,10 +18602,10 @@
       title: シュガst
       lines:
       - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 77 echo 詠唱中断防御
       - /ma 【バニシュガ】 <lastst> <wait 2>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 2
       title: トレハン
@@ -18626,42 +18626,6 @@
       - ''
       - ''
     - index: 4
-      title: 自ファラ
-      lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【胴】 【アダマンアーマー】
-      - /ma 【ファランクス】 <me>
-      - 【/equipset】 73 echo 【ファランクス】 <wait 3>
-      - 【/equipset】 72 echo 物理維持
-    - index: 5
-      title: ストス×
-      lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
-      - /ma 【ストンスキン】 <me>
-      - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
-    - index: 6
-      title: ブリン×
-      lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
-      - /ma 【ブリンク】 <me>
-      - 【/equipset】 77 echo 詠唱中断防御 <wait 5>
-      - 【/equipset】 72 echo 物理維持
-    - index: 7
-      title: アクア×
-      lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
-      - /ma 【アクアベール】 <me>
-      - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
-    - index: 8
       title: ''
       lines:
       - ''
@@ -18670,29 +18634,65 @@
       - ''
       - ''
       - ''
+    - index: 5
+      title: ストス×
+      lines:
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【ストンスキン】 <me>
+      - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
+    - index: 6
+      title: ブリン×
+      lines:
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【ブリンク】 <me>
+      - 【/equipset】 77 echo 詠唱中断防御 <wait 5>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
+    - index: 7
+      title: アクア×
+      lines:
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【アクアベール】 <me>
+      - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
+    - index: 8
+      title: リジネ×
+      lines:
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【リジェネ】IV <me>
+      - 【/equipset】 77 echo 詠唱中断防御 <wait 3>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 9
       title: ヴァレ単
       lines:
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【両脚】 【ＦＵトラウザ+4】
       - 【/equip】 【胴】 【ＲＮコート+4】
       - 【/equip】 【背】 【オーグマケープ】 2
-      - 【/equip】 【首】 【アンムーヴカラー+1】
       - /ja 【ヴァレション】 <me> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 10
       title: ヴァリ範
       lines:
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【両脚】 【ＦＵトラウザ+4】
       - 【/equip】 【胴】 【ＲＮコート+4】
       - 【/equip】 【背】 【オーグマケープ】 2
-      - 【/equip】 【首】 【アンムーヴカラー+1】
       - /ja 【ヴァリエンス】 <me> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 11
-      title: 維持装備
+      title: 待機装備
       lines:
-      - 【/equipset】 72 echo 維持装備
-      - 【/echo】 ◇◇◇維持装備
+      - 【/equipset】 72 echo 待機
+      - 【/echo】 ◇◇◇待機装備 <recast=【エンボルド】>
       - ''
       - ''
       - ''
@@ -18718,29 +18718,29 @@
     - index: 14
       title: バアムネ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma バアムネジア <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 15
       title: バファイ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【バファイ】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 16
-      title: ''
+      title: 自ファラ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【左手の指】 【メダダリング】
+      - 【/equip】 【背】 【月光の羽衣】
+      - /ma 【ファランクス】 <me> <stpt>
+      - 【/equipset】 73 echo 【ファランクス】 <wait 3>
+      - 【/equipset】 72 echo 待機装備
       - ''
     - index: 17
       title: ★移動
@@ -18752,21 +18752,21 @@
       - ''
       - ''
     - index: 18
+      title: リフレ×
+      lines:
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【リフレシュ】 <me>
+      - 【/equipset】 77 echo 詠唱中断防御 <wait 5>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
+    - index: 19
       title: クルセ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma クルセード <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 3>
-      - 【/equipset】 72 echo 物理維持
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 72 echo 待機
       - ''
       - ''
     - index: 20
@@ -18792,89 +18792,89 @@
     - index: 2
       title: フラst
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 76 echo 敵対心
-      - /ma 【フラッシュ】 <lastst> <wait 1>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equip】 【左手の指】 【メダダリング】
+      - /ma 【フラッシュ】 <stnpc>
+      - 【/equipset】 76 echo 敵対心 <wait 1>
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
     - index: 3
       title: フォイ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma フォイル <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 4
       title: ワンフォ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【ワンフォアオール】 <me> <wait 1>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 5
       title: リエモン
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 76 echo 敵対心
+      - 【/equip】 【胴】 【ＦＵコート+3】
       - /ja リエモン <me> <wait 1>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 6
       title: フルーグ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【フルーグ】 <me> <wait 1>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 7
       title: バトゥタ
       lines:
-      - 【/equip】 【胴】 【アダマンアーマー】
       - 【/equip】 【頭】 【ＦＵバンド+3】
       - 【/equip】 【両手】 【ＦＵミトン+3】
       - /ja 【ソードプレイ】 <me> <wait 1>
       - /ja バットゥタ <me> <wait 1>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 8
       title: センチ
       lines:
-      - 【/equip】 【背】 【月光の羽衣】
       - 【/equipset】 76 echo 敵対心
       - /ja 【センチネル】 <me> <wait 1>
-      - 【/equipset】 72 echo 耐魔法
+      - 【/equipset】 72 echo 待機
+      - ''
       - ''
       - ''
     - index: 9
       title: ヴァレ単
       lines:
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【両脚】 【ＦＵトラウザ+4】
       - 【/equip】 【胴】 【ＲＮコート+4】
       - 【/equip】 【背】 【オーグマケープ】 2
-      - 【/equip】 【首】 【アンムーヴカラー+1】
       - /ja 【ヴァレション】 <me> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 10
       title: ヴァリ範
       lines:
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【両脚】 【ＦＵトラウザ+4】
       - 【/equip】 【胴】 【ＲＮコート+4】
       - 【/equip】 【背】 【オーグマケープ】 2
-      - 【/equip】 【首】 【アンムーヴカラー+1】
       - /ja 【ヴァリエンス】 <me> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 11
-      title: 維持装備
+      title: 待機装備
       lines:
-      - 【/equipset】 72 echo 維持装備
-      - 【/echo】 ◇◇◇維持装備
+      - 【/equipset】 72 echo 待機
+      - 【/echo】 ◇◇◇待機装備 <recast=【エンボルド】>
       - ''
       - ''
       - ''
@@ -18900,39 +18900,39 @@
     - index: 14
       title: ファラ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ファランクス】 <me>
-      - 【/equipset】 77 echo 詠唱中断防御 <wait 3>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 74 echo 詠唱中断防御【ファランクス】 <wait 3>
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 15
       title: ストス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ストンスキン】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 16
       title: ブリン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【ブリンク】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 5>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 17
       title: アクア×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【両脚】 【ＦＵトラウザ+3】
+      - 【/equip】 【左手の指】 【メダダリング】
       - /ma 【アクアベール】 <me>
       - 【/equipset】 77 echo 詠唱中断防御 <wait 4>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
+      - ''
     - index: 18
       title: ★聖水★
       lines:
@@ -19941,7 +19941,7 @@
       - 【/equipset】 79 echo 命中＋魔命
       - /ws 【ショックウェーブ】 <t>
       - /p ◇【ショックウェーブ】 → <t> <wait>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
       - ''
       - ''
     - index: 9
@@ -20010,12 +20010,12 @@
     - index: 16
       title: 自ファラ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+4】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - 【/equip】 【胴】 【アダマンアーマー】
+      - 【/equip】 【左手の指】 【メダダリング】
+      - 【/equip】 【背】 【月光の羽衣】
       - /ma 【ファランクス】 <me>
       - 【/equipset】 73 echo 【ファランクス】 <wait 3>
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 17
       title: ''
       lines:
@@ -20032,8 +20032,8 @@
       - 【/equipset】 80 echo 魔攻MB
       - /ws 【ランジ】 <t>
       - /p ◇【ランジ】 → <t> <wait>
-      - 【/equip】 【背】 【月光の羽衣】
-      - 【/equipset】 72 echo 物理維持
+      - 【/equipset】 72 echo 待機
+      - ''
     - index: 19
       title: ''
       lines:
@@ -21177,10 +21177,10 @@
       - ''
       - ''
     - index: 4
-      title: 攻撃力48
+      title: 命中48
       lines:
       - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【カオスロール】 <me>
+      - /ja 【ハンターズロール】 <me>
       - ''
       - ''
       - ''

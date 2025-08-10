@@ -1,4 +1,4 @@
-# 2025-08-02 14:54:40
+# 2025-08-10 01:04:54
 - index: 1
   title: 001ThfAA
   items:
@@ -981,9 +981,9 @@
     slot: 46
     item: デビリスメダル
   - index: 11
-    storage: 45
-    slot: 17
-    item: ニヌルタサッシュ
+    storage: 41
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 41
     slot: 20
@@ -4887,11 +4887,11 @@
     slot: 9
     item: ゼラチナスリング+1
   - index: 16
-    storage: 41
-    slot: 56
+    storage: 61
+    slot: 37
     item: ディバートケープ
 - index: 74
-  title: Set074
+  title: 074RunSpPh
   items:
   - index: 1
     storage: 0
@@ -4906,57 +4906,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 19
+    item: ストンチタスラム+1
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 32
+    item: ＥＲガレア+3
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 75
+    item: アダマンアーマー
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 46
+    item: ヘルクリアグローブ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 49
+    item: カマインクウィス+1
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 12
+    item: ヘルクリアブーツ
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 16
+    item: 月光の首飾り
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 57
+    slot: 78
+    item: オドンブラサッシュ
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 28
+    item: オノワイヤリング+1
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 45
+    item: 磁界の耳
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 77
+    item: 守りの指輪
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 9
+    item: ゼラチナスリング+1
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 45
+    slot: 48
+    item: オーグマケープ
 - index: 75
   title: Set075
   items:
@@ -5174,9 +5174,9 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 57
-    slot: 67
-    item: ヤメラング
+    storage: 49
+    slot: 7
+    item: アイアンゴベット
   - index: 5
     storage: 41
     slot: 47
@@ -5210,17 +5210,17 @@
     slot: 28
     item: オノワイヤリング+1
   - index: 13
-    storage: 57
-    slot: 40
-    item: エアバニピアス
+    storage: 61
+    slot: 66
+    item: エリラズピアス+1
   - index: 14
     storage: 33
     slot: 65
     item: シュネデックリング
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 49
+    slot: 61
+    item: フォテファイリング
   - index: 16
     storage: 53
     slot: 25
@@ -5241,9 +5241,9 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 41
-    slot: 55
-    item: ヤメラング
+    storage: 45
+    slot: 80
+    item: ペムフレドタスラム
   - index: 5
     storage: 33
     slot: 32
@@ -5281,9 +5281,9 @@
     slot: 76
     item: エリラズピアス+1
   - index: 14
-    storage: 33
-    slot: 66
-    item: 月光の指輪
+    storage: 41
+    slot: 22
+    item: メダダリング
   - index: 15
     storage: 33
     slot: 43
@@ -6519,8 +6519,8 @@
     item: ストンチタスラム+1
   - index: 5
     storage: 49
-    slot: 59
-    item: バロラスマスク
+    slot: 68
+    item: オディシアヘルム
   - index: 6
     storage: 49
     slot: 62
@@ -6944,9 +6944,9 @@
     slot: 75
     item: クレリクトルク+2
   - index: 11
-    storage: 45
-    slot: 17
-    item: ニヌルタサッシュ
+    storage: 41
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 19
@@ -7614,9 +7614,9 @@
     slot: 67
     item: デビリスメダル
   - index: 11
-    storage: 45
-    slot: 17
-    item: ニヌルタサッシュ
+    storage: 41
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 21
@@ -9467,8 +9467,8 @@
     item: ストンチタスラム+1
   - index: 5
     storage: 49
-    slot: 62
-    item: バロラスマスク
+    slot: 68
+    item: オディシアヘルム
   - index: 6
     storage: 49
     slot: 68
@@ -9581,7 +9581,7 @@
     slot: 57
     item: シコルマント
 - index: 144
-  title: Set144
+  title: 144WarDup
   items:
   - index: 1
     storage: 0
@@ -9596,57 +9596,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 11
+    item: ノブキエリ
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 27
+    item: ニャメヘルム
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 1
+    item: ニャメメイル
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 71
+    item: ニャメガントレ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 55
+    item: ニャメフランチャ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 8
+    item: ニャメソルレット
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 2
+    item: 戦士の数珠+2
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 62
+    item: フォシャベルト
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 17
+    item: 胡蝶のイヤリング
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 8
+    item: スラッドピアス
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 28
+    item: ニックマドゥリング
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 49
+    item: 王将の指輪
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 57
+    item: シコルマント
 - index: 145
   title: 145WarSvg
   items:
@@ -9845,8 +9845,8 @@
     slot: 49
     item: 王将の指輪
   - index: 16
-    storage: 33
-    slot: 37
+    storage: 53
+    slot: 5
     item: シコルマント
 - index: 148
   title: Set148
@@ -10105,13 +10105,13 @@
     slot: 79
     item: ボイイピアス+1
   - index: 14
-    storage: 45
-    slot: 63
-    item: スティキニリング+1
+    storage: 33
+    slot: 66
+    item: 月光の指輪
   - index: 15
-    storage: 41
-    slot: 22
-    item: メダダリング
+    storage: 33
+    slot: 43
+    item: ゼラチナスリング+1
   - index: 16
     storage: 53
     slot: 25
@@ -10318,7 +10318,7 @@
     slot: 77
     item: シコルマント
 - index: 155
-  title: Set155
+  title: 155WarDef
   items:
   - index: 1
     storage: 0
@@ -10333,57 +10333,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 7
+    item: アイアンゴベット
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 74
+    item: サクパタヘルム
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 75
+    item: サクパタブレスト
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 21
+    slot: 19
+    item: サクパタガントレ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 26
+    item: サクパタクウィス
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 18
+    item: サクパタレギンス
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 18
+    item: 戦士の数珠+2
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 71
+    item: イオスケハベルト+1
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 67
+    item: ディグニタリピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 79
+    item: ボイイピアス+1
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 61
+    item: フォテファイリング
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 45
+    item: シーリチリング+1
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 45
+    slot: 55
+    item: シコルマント
 - index: 156
   title: Set156
   items:
@@ -13163,9 +13163,9 @@
     slot: 29
     item: ＦＵミトン+3
   - index: 8
-    storage: 33
-    slot: 22
-    item: ＦＵトラウザ+3
+    storage: 61
+    slot: 36
+    item: ＦＵトラウザ+4
   - index: 9
     storage: 33
     slot: 26
