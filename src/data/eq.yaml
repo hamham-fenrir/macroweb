@@ -1,4 +1,4 @@
-# 2025-08-10 01:04:54
+# 2025-08-16 12:40:02
 - index: 1
   title: 001ThfAA
   items:
@@ -153,9 +153,9 @@
     slot: 19
     item: イェットシーラ+1
   - index: 5
-    storage: 41
-    slot: 29
-    item: ブリスタサリット+1
+    storage: 53
+    slot: 64
+    item: グレティマスク
   - index: 6
     storage: 57
     slot: 35
@@ -454,8 +454,8 @@
     item: ロケイシャスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 25
+    item: エテオレートピアス
   - index: 14
     storage: 41
     slot: 73
@@ -564,8 +564,8 @@
     item: ピンガチュニック+1
   - index: 7
     storage: 41
-    slot: 25
-    item: ＡＣブレーサー+3
+    slot: 2
+    item: ＡＣブレーサー+4
   - index: 8
     storage: 41
     slot: 61
@@ -588,8 +588,8 @@
     item: ルガルバンダピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
@@ -899,8 +899,8 @@
     item: アグゥローブ
   - index: 7
     storage: 41
-    slot: 25
-    item: ＡＣブレーサー+3
+    slot: 2
+    item: ＡＣブレーサー+4
   - index: 8
     storage: 61
     slot: 38
@@ -1301,8 +1301,8 @@
     item: ピンガチュニック+1
   - index: 7
     storage: 41
-    slot: 25
-    item: ＡＣブレーサー+3
+    slot: 2
+    item: ＡＣブレーサー+4
   - index: 8
     storage: 41
     slot: 61
@@ -1325,8 +1325,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
@@ -1384,8 +1384,8 @@
     item: 月虹の呼び子+1
   - index: 11
     storage: 41
-    slot: 30
-    item: セールフィベルト+1
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 26
@@ -1399,9 +1399,9 @@
     slot: 73
     item: 守りの指輪
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 41
+    slot: 71
+    item: レベッチェリング
   - index: 16
     storage: 33
     slot: 73
@@ -1522,8 +1522,8 @@
     item: エンブラサッシュ
   - index: 12
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 13
     storage: 33
     slot: 79
@@ -1585,8 +1585,8 @@
     item: 月虹の呼び子+1
   - index: 11
     storage: 41
-    slot: 30
-    item: セールフィベルト+1
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 26
@@ -1600,9 +1600,9 @@
     slot: 73
     item: 守りの指輪
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 41
+    slot: 71
+    item: レベッチェリング
   - index: 16
     storage: 33
     slot: 73
@@ -1652,8 +1652,8 @@
     item: 月虹の呼び子+1
   - index: 11
     storage: 41
-    slot: 30
-    item: セールフィベルト+1
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 26
@@ -1667,9 +1667,9 @@
     slot: 73
     item: 守りの指輪
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 41
+    slot: 71
+    item: レベッチェリング
   - index: 16
     storage: 33
     slot: 73
@@ -1678,17 +1678,17 @@
   title: 26BrdFC
   items:
   - index: 1
-    storage: 45
-    slot: 60
-    item: カーリ
-  - index: 2
-    storage: 45
-    slot: 62
-    item: 玄冥盾
-  - index: 3
     storage: 0
     slot: 0
     item: 0
+  - index: 2
+    storage: 0
+    slot: 0
+    item: 0
+  - index: 3
+    storage: 41
+    slot: 43
+    item: リノス
   - index: 4
     storage: 0
     slot: 0
@@ -1714,17 +1714,17 @@
     slot: 2
     item: ＦＬコテュルヌ+3
   - index: 10
-    storage: 45
-    slot: 6
-    item: オルンミラトルク
+    storage: 33
+    slot: 53
+    item: ロリケートトルク+1
   - index: 11
     storage: 45
     slot: 7
     item: エンブラサッシュ
   - index: 12
-    storage: 45
-    slot: 26
-    item: ノーヴィアピアス
+    storage: 41
+    slot: 27
+    item: ロケイシャスピアス
   - index: 13
     storage: 33
     slot: 79
@@ -1786,8 +1786,8 @@
     item: 月虹の呼び子+1
   - index: 11
     storage: 41
-    slot: 30
-    item: セールフィベルト+1
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 26
@@ -1801,9 +1801,9 @@
     slot: 73
     item: 守りの指輪
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 41
+    slot: 71
+    item: レベッチェリング
   - index: 16
     storage: 33
     slot: 73
@@ -2400,9 +2400,9 @@
     slot: 37
     item: イシュヴァラピアス
   - index: 14
-    storage: 57
-    slot: 56
-    item: メタモルリング+1
+    storage: 49
+    slot: 55
+    item: スローダリング
   - index: 15
     storage: 49
     slot: 63
@@ -2523,8 +2523,8 @@
     item: 月虹の呼び子+1
   - index: 11
     storage: 41
-    slot: 30
-    item: セールフィベルト+1
+    slot: 1
+    item: コーネリアの黒帯
   - index: 12
     storage: 45
     slot: 26
@@ -2538,9 +2538,9 @@
     slot: 73
     item: 守りの指輪
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 41
+    slot: 71
+    item: レベッチェリング
   - index: 16
     storage: 33
     slot: 73
@@ -3536,8 +3536,8 @@
     item: ロケイシャスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 25
+    item: エテオレートピアス
   - index: 14
     storage: 41
     slot: 73
@@ -5915,9 +5915,9 @@
     slot: 19
     item: コイストボダー
   - index: 5
-    storage: 49
-    slot: 13
-    item: ブリスタサリット+1
+    storage: 53
+    slot: 64
+    item: グレティマスク
   - index: 6
     storage: 53
     slot: 11
@@ -6752,8 +6752,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 45
     slot: 63
@@ -6953,8 +6953,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
@@ -7087,8 +7087,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
@@ -7221,8 +7221,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
@@ -7355,8 +7355,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
@@ -7556,8 +7556,8 @@
     item: マリグナスピアス
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73

@@ -1,4 +1,4 @@
-# 2025-08-10 01:05:08
+# 2025-08-16 12:40:15
 - index: 1
   name: WAR
   palettes:
@@ -1772,7 +1772,7 @@
       title: Lock195
       lines:
       - 【/lockstyleset】 195
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -2005,7 +2005,7 @@
       - /ja 【白の補遺】 <me>
       - /ja 【白のグリモア】 <me>
       - 【/equipset】 14 echo FC【両手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 2
     macros:
@@ -2187,7 +2187,7 @@
       - /ja 【白の補遺】 <me>
       - /ja 【白のグリモア】 <me>
       - 【/equipset】 14 echo FC【両手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 3
     macros:
@@ -2369,7 +2369,7 @@
       - /ja 【白の補遺】 <me>
       - /ja 【白のグリモア】 <me>
       - 【/equipset】 14 echo FC【両手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 4
     macros:
@@ -2551,7 +2551,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 5
     macros:
@@ -2915,7 +2915,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 7
     macros:
@@ -3279,7 +3279,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 9
     macros:
@@ -3825,7 +3825,7 @@
       title: Lock196
       lines:
       - 【/lockstyleset】 196
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -4007,7 +4007,7 @@
       title: Lock196
       lines:
       - 【/lockstyleset】 196
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -5648,7 +5648,7 @@
       title: セグLock
       lines:
       - 【/lockstyleset】 190
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -6376,7 +6376,7 @@
       title: 回避Lock
       lines:
       - 【/lockstyleset】 190
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -6740,7 +6740,7 @@
       title: ミラクル
       lines:
       - 【/lockstyleset】 190
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -7426,7 +7426,7 @@
       title: Lock198
       lines:
       - 【/lockstyleset】 198
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -7653,7 +7653,7 @@
       title: ★桃色Lo
       lines:
       - 【/lockstyleset】 198
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -9064,7 +9064,7 @@
       title: Lock198
       lines:
       - 【/lockstyleset】 198
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -9249,7 +9249,7 @@
       title: Lock194
       lines:
       - 【/lockstyleset】 194
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -9431,7 +9431,7 @@
       title: Lock194
       lines:
       - 【/lockstyleset】 194
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -9977,7 +9977,7 @@
       title: Lock194
       lines:
       - 【/lockstyleset】 194
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -12940,7 +12940,7 @@
       title: サポ青
       lines:
       - 【/lockstyleset】 192
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -13122,7 +13122,7 @@
       title: Lock192
       lines:
       - 【/lockstyleset】 192
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -13850,7 +13850,7 @@
       title: アンバス
       lines:
       - 【/lockstyleset】 192
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -14032,7 +14032,7 @@
       title: サポ剣
       lines:
       - 【/lockstyleset】 192
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -14396,7 +14396,7 @@
       title: サポなし
       lines:
       - 【/lockstyleset】 192
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -14724,14 +14724,14 @@
       - ''
       - ''
     - index: 16
-      title: 金剛身
+      title: Sスキン
       lines:
-      - /ma 【金剛身】 <me> <stpt>
-      - 【/equipset】 85 echo 青魔法スキル <wait 2>
+      - /ma 【ストンスキン】 <me> <stpt>
+      - 【/equip】 【首】 【ストーンゴルゲット】
+      - 【/equip】 【右耳】 【アースクライピアス】
+      - 【/equip】 【腰】 【ジーゲルサッシュ】
+      - 【/equip】 【両脚】 【シェダルサラウィル】 <wait 6>
       - 【/equipset】 82 echo 【ファストキャスト】待機
-      - ''
-      - ''
-      - ''
     - index: 17
       title: 夢想花TH
       lines:
@@ -14744,26 +14744,26 @@
     - index: 18
       title: バッテリ
       lines:
+      - /ma バッテリーチャージ <me> <stpt>
       - 【/equip】 【頭】 【ＡＭコイフ+1】
       - 【/equip】 【背】 【グレプバインケープ】
-      - 【/equip】 【腰】 【ギシドゥバサッシュ】
-      - /ma バッテリーチャージ <me> <stpt> <wait 3>
+      - 【/equip】 【腰】 【ギシドゥバサッシュ】 <wait 3>
       - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 19
-      title: カルカリ
+      title: アクアベ
       lines:
-      - 【/equipset】 85 echo 青魔法スキル
-      - /ja ノートリアスナレッジ <me> <wait 1>
-      - /ja 【ディフュージョン】 <me> <wait 1>
-      - /ma カルカリアンヴァーヴ <me> <wait 2>
+      - /ma 【アクアベール】 <me> <stpt>
+      - 【/equip】 【頭】 【ＡＭコイフ+1】
+      - 【/equip】 【腰】 【ジーゲルサッシュ】
+      - 【/equip】 【両脚】 【シェダルサラウィル】 <wait 5>
       - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 20
       title: ベガリ
       lines:
       - 【/lockstyleset】 200
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -14780,14 +14780,14 @@
       - ''
       - ''
     - index: 2
-      title: ''
+      title: サドン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【ピンガチュニック+1】
+      - 【/equip】 【両脚】 【ピンガズボン+1】
+      - /ma サドンランジ <stnpc>
+      - 【/equipset】 84 echo 魔命 <wait>
+      - 【/equipset】 81 echo AA装備
     - index: 3
       title: ディアガ
       lines:
@@ -14953,40 +14953,40 @@
   - index: 3
     macros:
     - index: 1
-      title: エントTH
+      title: エント土
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
       - 【/equip】 【頭】 【カマインマスク+1】
       - /ma エントゥーム <stnpc>
-      - 【/equipset】 83 echo 魔命【トレジャーハンター】 <wait 4>
+      - 【/equipset】 84 echo 魔命 <wait 4>
       - 【/equipset】 81 echo AA装備
     - index: 2
-      title: テネブTH
+      title: テネブ闇
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
       - 【/equip】 【頭】 【カマインマスク+1】
       - /ma テネブラルクラッシュ <stnpc>
-      - 【/equipset】 83 echo 魔命【トレジャーハンター】 <wait 4>
+      - 【/equipset】 84 echo 魔命 <wait 4>
       - 【/equipset】 81 echo AA装備
     - index: 3
-      title: ガイスTH
+      title: ガイスト
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
       - 【/equip】 【頭】 【カマインマスク+1】
       - /ma 【ガイストウォール】 <stnpc>
-      - 【/equipset】 83 echo 魔命【トレジャーハンター】 <wait 2>
+      - 【/equipset】 84 echo 魔命 <wait 2>
       - 【/equipset】 81 echo AA装備
     - index: 4
-      title: 夢想花TH
+      title: 夢想花
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
       - 【/equip】 【頭】 【カマインマスク+1】
       - /ma 夢想花 <stnpc>
-      - 【/equipset】 83 echo 魔命【トレジャーハンター】 <wait 2>
+      - 【/equipset】 84 echo 魔命 <wait 2>
       - 【/equipset】 81 echo AA装備
     - index: 5
       title: ''
@@ -15027,7 +15027,7 @@
     - index: 9
       title: 不倶戴天
       lines:
-      - 【/equip】 【レンジウェポン】 不倶戴天
+      - 【/equip】 【レンジウェポン】 【不倶戴天】
       - 【/range】 <t>
       - ''
       - ''
@@ -15037,7 +15037,7 @@
       title: lock200
       lines:
       - 【/lockstyleset】 200
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -15106,13 +15106,13 @@
       - ''
       - ''
     - index: 18
-      title: ''
+      title: カルカリ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ja ノートリアスナレッジ <me> <wait 1>
+      - /ja 【ディフュージョン】 <me> <wait 1>
+      - /ma カルカリアンヴァーヴ <me>
+      - 【/equipset】 85 echo 青魔法スキル <wait 3>
+      - 【/equipset】 81 echo AA装備
       - ''
     - index: 19
       title: マイティ
@@ -15663,17 +15663,17 @@
     - index: 19
       title: カルカリ
       lines:
-      - 【/equipset】 85 echo 青魔法スキル
       - /ja ノートリアスナレッジ <me> <wait 1>
       - /ja 【ディフュージョン】 <me> <wait 1>
-      - /ma カルカリアンヴァーヴ <me> <wait 2>
+      - /ma カルカリアンヴァーヴ <me>
+      - 【/equipset】 85 echo 青魔法スキル <wait 3>
       - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 20
       title: H解放
       lines:
       - 【/lockstyleset】 200
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -15681,180 +15681,180 @@
   - index: 7
     macros:
     - index: 1
-      title: サドン
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【ピンガチュニック+1】
-      - 【/equip】 【両脚】 【ピンガズボン+1】
-      - /ma サドンランジ <stnpc>
-      - 【/equipset】 84 echo 魔命 <wait>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
-      title: サブダク
+      title: ''
       lines:
-      - /ma サブダックション <stnpc>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【首】 【ミラージストール+2】
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 3
-      title: 水風船
+      title: ''
       lines:
-      - /ma 水風船爆弾 <stnpc>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【首】 【シビルスカーフ】
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 4
-      title: 日記
+      title: ''
       lines:
-      - /【/item】 【ルジャワン雑記】 <t>
-      - /【/item】 【マムージャ戦記】 <t>
-      - /【/item】 【レベロス探検記】 <t>
-      - 【/item】 【ペリキア探訪記】 <t>
-      - /【/item】 【イルルシ旅行記】 <t>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 5
-      title: バッテリ
+      title: ''
       lines:
-      - 【/equip】 【頭】 【ＡＭコイフ+1】
-      - 【/equip】 【背】 【グレプバインケープ】
-      - 【/equip】 【腰】 【ギシドゥバサッシュ】
-      - /ma バッテリーチャージ <me> <stpt> <wait 3>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 6
-      title: フルーツ
+      title: ''
       lines:
-      - /ma 【マジックフルーツ】 <stpt>
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 7
-      title: サベッジ
+      title: ''
       lines:
-      - 【/equipset】 87 echo STRWS
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 8
-      title: サンギン
+      title: ''
       lines:
-      - 【/equipset】 88 echo 魔攻
-      - /ws 【サンギンブレード】 <t> <wait>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: ランプ
+      title: ''
       lines:
-      - 【/item】 煙の出ているランプ <lastst>
-      - 【/item】 灯されたランプ <lastst>
-      - 【/target】 <stnpc>
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 10
-      title: ヨラン
+      title: ''
       lines:
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - /ma ヨランオラン(UC) <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 11
-      title: ネイブン
+      title: ''
       lines:
-      - 【/echo】 ◇【ネイグリング】＆【ブンジロッド】
-      - 【/equipset】 81 echo AA装備
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【サブウェポン】 【ブンジロッド】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 12
-      title: ネイマカ
+      title: ''
       lines:
-      - 【/echo】 ◇【ネイグリング】＆【マカイラ+2】
-      - 【/equipset】 81 echo AA装備
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【サブウェポン】 【マカイラ+2】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 13
-      title: エンバム
+      title: ''
       lines:
-      - /ma エンバームアース <stnpc>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【首】 【クアンプネックレス】
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 14
-      title: カルカリ
+      title: ''
       lines:
-      - 【/equipset】 85 echo 青魔法スキル
-      - /ja ノートリアスナレッジ <me> <wait 1>
-      - /ja 【ディフュージョン】 <me> <wait 1>
-      - /ma カルカリアンヴァーヴ <me> <wait 2>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 15
-      title: オカル
+      title: ''
       lines:
-      - /ma オカルテーション <me> <stpt>
-      - 【/equipset】 85 echo 青魔法スキル <wait 2>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: マジハン
+      title: ''
       lines:
-      - /ma 【マジックハンマー】 <stnpc>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【首】 【シビルスカーフ】
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 17
-      title: エラチク
+      title: ''
       lines:
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - /ma エラチックフラッター <me> <wait>
-      - 【/equipset】 81 echo AA装備
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 18
-      title: 待機移動
+      title: ''
       lines:
-      - 【/echo】 ◇◇【ファストキャスト】待機
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 19
-      title: 珍妙
+      title: ''
       lines:
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - /ma ヨアヒム <me> <wait 5>
-      - /ma モンブロー <me> <wait 5>
-      - /ma ヨランオラン(UC) <me> <wait 5>
-      - /ma クルタダ <me> <wait 5>
-      - /ma アシェラ <me> <wait 5>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 20
-      title: エイン
+      title: ''
       lines:
-      - 【/lockstyleset】 200
+      - ''
       - ''
       - ''
       - ''
@@ -16045,56 +16045,56 @@
   - index: 9
     macros:
     - index: 1
-      title: サドン
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【ピンガチュニック+1】
-      - 【/equip】 【両脚】 【ピンガズボン+1】
-      - /ma サドンランジ <stnpc>
-      - 【/equipset】 84 echo 魔命 <wait>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
-      title: サブダク
+      title: ''
       lines:
-      - /ma サブダックション <stnpc>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【首】 【ミラージストール+2】
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 3
-      title: T.アサ
+      title: ''
       lines:
-      - /ma T.アッサルト <stnpc>
-      - 【/equipset】 85 echo 青魔法スキル <wait 2>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: 夢想花TH
+      title: ''
       lines:
-      - /ma 夢想花 <stnpc>
-      - 【/equipset】 83 echo 魔命【トレジャーハンター】 <wait 2>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: バッテリ
+      title: ''
       lines:
-      - 【/equip】 【頭】 【ＡＭコイフ+1】
-      - 【/equip】 【背】 【グレプバインケープ】
-      - 【/equip】 【腰】 【ギシドゥバサッシュ】
-      - /ma バッテリーチャージ <me> <stpt> <wait 3>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 6
-      title: フルーツ
+      title: ''
       lines:
-      - /ma 【マジックフルーツ】 <stpt>
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -16108,20 +16108,20 @@
       - ''
       - ''
     - index: 8
-      title: ヒーワル
+      title: ''
       lines:
-      - /ja 【ヒーリングワルツ】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: 投てき
+      title: ''
       lines:
-      - 【/equip】 【レンジウェポン】 【不倶戴天】
-      - 【/wait】 1
-      - 【/range】 <t>
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -16135,12 +16135,12 @@
       - ''
       - ''
     - index: 11
-      title: FC待機
+      title: ''
       lines:
-      - 【/echo】 ◇◇【ファストキャスト】待機
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - 【/equip】 【メインウェポン】 【サクパタソード】
-      - 【/equip】 【サブウェポン】 【ブンジロッド】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 12
@@ -16171,28 +16171,28 @@
       - ''
       - ''
     - index: 15
-      title: Lock200
+      title: ''
       lines:
-      - 【/lockstyleset】 200
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: マジハン
+      title: ''
       lines:
-      - /ma 【マジックハンマー】 <stnpc>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【首】 【シビルスカーフ】
-      - 【/equipset】 88 echo 魔攻INT <wait 2>
-      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 17
-      title: エラチク
+      title: ''
       lines:
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - /ma エラチックフラッター <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -16207,20 +16207,20 @@
       - ''
       - ''
     - index: 19
-      title: スペジグ
+      title: ''
       lines:
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - /ja 【スペクトラルジグ】 <me> <wait>
-      - 【/equip】 【左手の指】 【デジョンリング】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 20
-      title: ナイズル
+      title: ''
       lines:
-      - 【/equipset】 82 echo 【ファストキャスト】待機
-      - /ja 【スペクトラルジグ】 <me> <wait>
-      - 【/equip】 【左手の指】 【デジョンリング】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -16308,14 +16308,14 @@
       - ''
       - ''
     - index: 10
-      title: ''
+      title: 珍妙
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - /ma ヨアヒム <me> <wait 5>
+      - /ma モンブロー <me> <wait 5>
+      - /ma ヨランオラン(UC) <me> <wait 5>
+      - /ma クルタダ <me> <wait 5>
+      - /ma アシェラ <me> <wait 5>
     - index: 11
       title: 攻ファイ
       lines:
@@ -18179,7 +18179,7 @@
       title: Lock194
       lines:
       - 【/lockstyleset】 194
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -20002,7 +20002,7 @@
       title: Lock197
       lines:
       - 【/lockstyleset】 197
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -20231,12 +20231,12 @@
     - index: 20
       title: 短剣レデ
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
+      - 【/equipset】 56 echo 二刀流ほぼカット <wait 1>
       - 【/equip】 【右手の指】 【デジョンリング】
       - 【/equip】 【左手の指】 【シュネデックリング】
       - 【/echo】 ◇◇◇ロック＋移動
       - 【/lockstyleset】 199
+      - /blockhelp on
   - index: 2
     macros:
     - index: 1
@@ -20413,12 +20413,12 @@
     - index: 20
       title: 斬サベ
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
+      - 【/equipset】 56 echo 二刀流ほぼカット <wait>
       - 【/equip】 【右手の指】 【デジョンリング】
       - 【/equip】 【左手の指】 【シュネデックリング】
       - 【/echo】 ◇◇◇ロック＋移動
       - 【/lockstyleset】 199
+      - /blockhelp on
   - index: 3
     macros:
     - index: 1
@@ -20595,12 +20595,12 @@
     - index: 20
       title: フォマル
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
+      - 【/equipset】 56 echo 二刀流ほぼカット <wait>
       - 【/equip】 【右手の指】 【デジョンリング】
       - 【/equip】 【左手の指】 【シュネデックリング】
       - 【/echo】 ◇◇◇ロック＋移動
       - 【/lockstyleset】 199
+      - /blockhelp on
   - index: 4
     macros:
     - index: 1
@@ -20924,7 +20924,7 @@
       title: lock199
       lines:
       - 【/lockstyleset】 199
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -21288,7 +21288,7 @@
       title: lock199
       lines:
       - 【/lockstyleset】 199
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -22058,7 +22058,7 @@
       - 【/lockstyleset】 189
       - 【/equip】 【左手の指】 【スティキニリング+1】 3
       - 【/equip】 【右手の指】 【シュネデックリング】
-      - ''
+      - /blockhelp on
       - ''
   - index: 2
     macros:
@@ -22241,7 +22241,7 @@
       - 【/equipset】 161 echo 待機・FC
       - 【/equip】 【左手の指】 【スティキニリング+1】 3
       - 【/equip】 【右手の指】 【シュネデックリング】
-      - ''
+      - /blockhelp on
   - index: 3
     macros:
     - index: 1
@@ -22423,7 +22423,7 @@
       - 【/equipset】 161 echo 待機・FC
       - 【/equip】 【左手の指】 【スティキニリング+1】 3
       - 【/equip】 【右手の指】 【シュネデックリング】
-      - ''
+      - /blockhelp on
   - index: 4
     macros:
     - index: 1
@@ -22605,7 +22605,7 @@
       - 【/equipset】 161 echo 待機・FC
       - 【/equip】 【左手の指】 【スティキニリング+1】 3
       - 【/equip】 【右手の指】 【シュネデックリング】
-      - ''
+      - /blockhelp on
   - index: 5
     macros:
     - index: 1
@@ -22786,7 +22786,7 @@
       - 【/lockstyleset】 189
       - 【/equip】 【左手の指】 【スティキニリング+1】 3
       - 【/equip】 【右手の指】 【シュネデックリング】
-      - ''
+      - /blockhelp on
       - ''
   - index: 6
     macros:
@@ -23827,7 +23827,7 @@
       - 【/equip】 【メインウェポン】 【ムパカスタッフ】
       - 【/equip】 【サブウェポン】 【エンキストラップ】
       - 【/lockstyleset】 188
-      - ''
+      - /blockhelp on
       - ''
     - index: 15
       title: ★片手棍
@@ -23836,7 +23836,7 @@
       - 【/equip】 【メインウェポン】 【ブンジロッド】
       - 【/equip】 【サブウェポン】 【アムラピシールド】
       - 【/lockstyleset】 188
-      - ''
+      - /blockhelp on
       - ''
     - index: 16
       title: ''
@@ -25838,7 +25838,7 @@
       title: lock
       lines:
       - 【/lockstyle】 on
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -26020,7 +26020,7 @@
       title: lock
       lines:
       - 【/lockstyle】 on
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -26211,7 +26211,7 @@
       title: lock181
       lines:
       - 【/lockstyleset】 181
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -26793,7 +26793,7 @@
       title: Lock189
       lines:
       - 【/lockstyleset】 189
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -26975,7 +26975,7 @@
       title: Lock189
       lines:
       - 【/lockstyleset】 189
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -29302,7 +29302,7 @@
       title: Lock189
       lines:
       - 【/lockstyleset】 189
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -29484,7 +29484,7 @@
       title: Lock189
       lines:
       - 【/lockstyleset】 189
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -29857,7 +29857,7 @@
       title: lock171
       lines:
       - 【/lockstyleset】 171
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -32993,7 +32993,7 @@
       title: lock
       lines:
       - 【/lockstyleset】 117
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -33175,7 +33175,7 @@
       title: lock
       lines:
       - 【/lockstyleset】 117
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -33357,7 +33357,7 @@
       title: lock
       lines:
       - 【/lockstyleset】 117
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -33539,7 +33539,7 @@
       title: lock
       lines:
       - 【/lockstyleset】 117
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -33721,7 +33721,7 @@
       title: lock
       lines:
       - 【/lockstyleset】 117
-      - ''
+      - /blockhelp on
       - ''
       - ''
       - ''
@@ -34682,7 +34682,7 @@
       lines:
       - 【/echo】 ◇部位【ファストキャスト】
       - 【/equip】 【首】 【オルンミラトルク】
-      - 【/equip】 【両手】 【ＡＣブレーサー+3】
+      - 【/equip】 【両手】 【ＡＣブレーサー+4】
       - 【/equip】 【背】 【ルッフケープ】 2
       - ''
       - ''
@@ -34819,7 +34819,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 2
     macros:
@@ -34864,7 +34864,7 @@
       lines:
       - 【/echo】 ◇部位【ファストキャスト】
       - 【/equip】 【首】 【オルンミラトルク】
-      - 【/equip】 【両手】 【ＡＣブレーサー+3】
+      - 【/equip】 【両手】 【ＡＣブレーサー+4】
       - 【/equip】 【背】 【ルッフケープ】 2
       - ''
       - ''
@@ -35001,7 +35001,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 3
     macros:
@@ -35046,7 +35046,7 @@
       lines:
       - 【/echo】 ◇部位【ファストキャスト】
       - 【/equip】 【首】 【オルンミラトルク】
-      - 【/equip】 【両手】 【ＡＣブレーサー+3】
+      - 【/equip】 【両手】 【ＡＣブレーサー+4】
       - 【/equip】 【背】 【ルッフケープ】 2
       - ''
       - ''
@@ -35183,7 +35183,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 4
     macros:
@@ -35228,7 +35228,7 @@
       lines:
       - 【/echo】 ◇部位【ファストキャスト】
       - 【/equip】 【首】 【オルンミラトルク】
-      - 【/equip】 【両手】 【ＡＣブレーサー+3】
+      - 【/equip】 【両手】 【ＡＣブレーサー+4】
       - 【/equip】 【背】 【ルッフケープ】 2
       - ''
       - ''
@@ -35365,7 +35365,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 5
     macros:
@@ -35410,7 +35410,7 @@
       lines:
       - 【/echo】 ◇部位【ファストキャスト】
       - 【/equip】 【首】 【オルンミラトルク】
-      - 【/equip】 【両手】 【ＡＣブレーサー+3】
+      - 【/equip】 【両手】 【ＡＣブレーサー+4】
       - 【/equip】 【背】 【ルッフケープ】 2
       - ''
       - ''
@@ -35547,7 +35547,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 6
     macros:
@@ -35592,7 +35592,7 @@
       lines:
       - 【/echo】 ◇部位【ファストキャスト】
       - 【/equip】 【首】 【オルンミラトルク】
-      - 【/equip】 【両手】 【ＡＣブレーサー+3】
+      - 【/equip】 【両手】 【ＡＣブレーサー+4】
       - 【/equip】 【背】 【ルッフケープ】 2
       - ''
       - ''
@@ -35729,7 +35729,7 @@
       - /ja 【黒の補遺】 <me>
       - /ja 【黒のグリモア】 <me>
       - 【/equipset】 20 echo FC【片手棍】待機
-      - ''
+      - /blockhelp on
       - ''
   - index: 7
     macros:
