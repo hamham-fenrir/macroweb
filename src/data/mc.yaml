@@ -1,4 +1,4 @@
-# 2025-08-16 12:40:15
+# 2025-08-24 20:41:43
 - index: 1
   name: WAR
   palettes:
@@ -1681,8 +1681,8 @@
     - index: 5
       title: ★睡眠★
       lines:
-      - 【/echo】 ◇◇◇【ヴィムトルク】
-      - 【/equip】 【首】 【ヴィムトルク】
+      - 【/echo】 ◇◇◇【ヴィムトルク+1】
+      - 【/equip】 【首】 【ヴィムトルク+1】
       - ''
       - ''
       - ''
@@ -3655,8 +3655,8 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアル】III <stpt>
-      - 【/equipset】 102 echo ケアル <wait 1>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - ''
       - ''
       - ''
     - index: 2
@@ -3664,8 +3664,8 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアル】V <stpt>
-      - 【/equipset】 102 echo ケアル <wait 1>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - ''
       - ''
       - ''
     - index: 3
@@ -3673,18 +3673,18 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアルガ】II <stpt>
-      - 【/equipset】 102 echo ケアル
-      - 【/equip】 【胴】 【ケカスブリオー+1】 <wait 2>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - 【/equip】 【胴】 【ケカスブリオー+1】
+      - ''
       - ''
     - index: 4
       title: ガ５
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアルガ】V <stpt>
-      - 【/equipset】 102 echo ケアル
-      - 【/equip】 【胴】 【ケカスブリオー+1】 <wait 2>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - 【/equip】 【胴】 【ケカスブリオー+1】
+      - ''
       - ''
     - index: 5
       title: ソラグリ
@@ -3756,7 +3756,7 @@
       - 【/equip】 【右手の指】 【シュネデックリング】
       - 【/equip】 【矢弾】 【ホミリアリ】
       - 【/equip】 【頭】 【無の面】
-      - ''
+      - 【/equip】 【メインウェポン】 【ボレラブンガ】
       - ''
     - index: 13
       title: オスピ
@@ -3779,8 +3779,8 @@
     - index: 15
       title: バサンダ
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バサンダラ】 <me> <wait>
+      - /ma 【バサンダラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -3927,8 +3927,8 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアル】VI <stpt>
-      - 【/equipset】 102 echo ケアル <wait 1>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - ''
       - ''
       - ''
     - index: 12
@@ -3936,8 +3936,8 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアル】IV <stpt>
-      - 【/equipset】 102 echo ケアル <wait 1>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - ''
       - ''
       - ''
     - index: 13
@@ -3945,18 +3945,18 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアルガ】III <stpt>
-      - 【/equipset】 102 echo ケアル
-      - 【/equip】 【胴】 【ケカスブリオー+1】 <wait 2>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - 【/equip】 【胴】 【ケカスブリオー+1】
+      - ''
       - ''
     - index: 14
       title: ガ５
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアルガ】V <stpt>
-      - 【/equipset】 102 echo ケアル
-      - 【/equip】 【胴】 【ケカスブリオー+1】 <wait 2>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - 【/equip】 【胴】 【ケカスブリオー+1】
+      - ''
       - ''
     - index: 15
       title: 単プロ５
@@ -4046,9 +4046,9 @@
       lines:
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - /ma 【ケアルガ】II <stpt>
-      - 【/equipset】 102 echo ケアル
-      - 【/equip】 【胴】 【ケカスブリオー+1】 <wait 2>
-      - 【/equipset】 101 echo 待機
+      - 【/equipset】 102 echo 【ケアル】
+      - 【/equip】 【胴】 【ケカスブリオー+1】
+      - ''
       - ''
     - index: 5
       title: ''
@@ -5300,8 +5300,8 @@
     - index: 2
       title: バストン
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バストンラ】 <me> <wait>
+      - /ma 【バストンラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -5309,8 +5309,8 @@
     - index: 3
       title: バサンダ
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バサンダラ】 <me> <wait>
+      - /ma 【バサンダラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -5318,8 +5318,8 @@
     - index: 4
       title: バブリザ
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バブリザラ】 <me> <wait>
+      - /ma 【バブリザラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -5390,8 +5390,8 @@
     - index: 12
       title: バエアロ
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バエアロラ】 <me> <wait>
+      - /ma 【バエアロラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -5399,8 +5399,8 @@
     - index: 13
       title: バウォタ
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バウォタラ】 <me> <wait>
+      - /ma 【バウォタラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -5408,8 +5408,8 @@
     - index: 14
       title: バファイ
       lines:
-      - 【/equipset】 105 echo 属性バ系
-      - /ma 【バファイラ】 <me> <wait>
+      - /ma 【バファイラ】 <me> <stpt>
+      - 【/equipset】 105 echo 属性バ系 <wait>
       - 【/equipset】 101 echo 待機
       - ''
       - ''
@@ -8389,104 +8389,104 @@
   - index: 7
     macros:
     - index: 1
-      title: ''
+      title: トレハン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/echo】 トレハン装備
+      - 【/equip】 【両手】 【カイロングローブ】 0
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
       - ''
       - ''
     - index: 2
-      title: ''
+      title: サイレス
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【サイレス】 <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equip】 【背】 【スセロスケープ】 3
+      - 【/equipset】 131 echo LT3弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
     - index: 3
-      title: ''
+      title: パライ２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【パライズ】II <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equip】 【背】 【スセロスケープ】 3
+      - 【/equipset】 131 echo LT3弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
     - index: 4
-      title: ''
+      title: スロウ２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【スロウ】II <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equip】 【背】 【スセロスケープ】 3
+      - 【/equipset】 131 echo LT3弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
     - index: 5
-      title: ''
+      title: ディス物
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【ディストラ】III <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equipset】 124 echo LT2弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 6
-      title: ''
+      title: フラズ魔
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【フラズル】III <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equipset】 124 echo LT2弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 7
-      title: ''
+      title: ブライ２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【ブライン】II <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equip】 【背】 【スセロスケープ】 4
+      - 【/equipset】 131 echo LT3弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
     - index: 8
-      title: ''
+      title: ポイズ２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【ポイズン】II <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equipset】 124 echo LT2弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 9
-      title: ''
+      title: ディスペ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【ディスペル】 <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equipset】 140 echo 【ディスペル】 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 10
-      title: ''
+      title: ストエン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【メインウェポン】 【プクラトムージュ+1】
+      - 【/equip】 【サブウェポン】 【フォフェンド+1】
+      - 【/equipset】 127 echo 強化600
+      - /ma 【ヘイスト】II <me> <wait 5>
+      - /ma 【ストライ】II <me> <wait 5>
+      - /ma 【エンサンダー】 <me>
     - index: 11
-      title: ''
+      title: エン修羅
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /echo <recast=【空蝉の術】:弐> <recast=【空蝉の術】:壱>
+      - /echo <recast=【サボトゥール】> <recast=スリプルII>
+      - 【/equipset】 126 echo エン二刀流
+      - 【/equip】 【メインウェポン】 【エシクーバ】
+      - 【/equip】 【サブウェポン】 【インフィルトレータ】
+      - 【/equip】 【矢弾】 【スローダタスラム】
     - index: 12
       title: ''
       lines:
@@ -8497,14 +8497,14 @@
       - ''
       - ''
     - index: 13
-      title: ''
+      title: エン武士
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /echo <recast=【空蝉の術】:弐> <recast=【空蝉の術】:壱>
+      - /echo <recast=【サボトゥール】> <recast=スリプルII>
+      - 【/equipset】 126 echo エン二刀流
+      - 【/equip】 【メインウェポン】 【クロセアモース】 <wait 2>
+      - 【/equip】 【サブウェポン】 【プクラトムージュ+1】
+      - 【/equip】 【矢弾】 【スローダタスラム】
     - index: 14
       title: ''
       lines:
@@ -8515,40 +8515,40 @@
       - ''
       - ''
     - index: 15
-      title: ''
+      title: Lock198
       lines:
-      - ''
-      - ''
+      - 【/lockstyleset】 198
+      - /blockhelp on
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: ''
+      title: デジ
       lines:
-      - ''
-      - ''
-      - ''
+      - /echo ◇◇◇デジョンリング
+      - 【/equip】 【右手の指】 【シュネデックリング】
+      - 【/equip】 【左手の指】 【デジョンリング】
       - ''
       - ''
       - ''
     - index: 17
-      title: ''
+      title: サベッジ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 139 【サベッジブレード】
+      - /ws 【サベッジブレード】 <t> <wait>
+      - 【/equipset】 126 echo エン二刀流
+      - 【/equip】 【矢弾】 【スローダタスラム】
       - ''
       - ''
     - index: 18
-      title: ''
+      title: バイオ３
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【バイオ】III <stnpc>
+      - 【/equip】 【メインウェポン】 【クロセアモース】
+      - 【/equip】 【サブウェポン】 【ネイグリング】
+      - 【/equipset】 121 echo LT5弱体 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 19
       title: ''
@@ -8560,13 +8560,13 @@
       - ''
       - ''
     - index: 20
-      title: ''
+      title: ★修羅
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 132 echo FC待機
+      - /ja 【コンポージャー】 <me> <wait>
+      - /ma 星の神子 <me> <wait 5>
+      - '/ma ブリジッド <me> <wait 5> '
+      - /ma ウルミア <me> <wait 5>
       - ''
   - index: 8
     macros:
@@ -8706,31 +8706,31 @@
       - ''
       - ''
     - index: 16
-      title: ''
+      title: エン火
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【エンファイア】 <me> <stpt>
+      - 【/equip】 【メインウェポン】 【プクラトムージュ+1】
+      - 【/equip】 【サブウェポン】 【フォフェンド+1】
+      - 【/equipset】 127 echo 強化600 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 17
-      title: ''
+      title: エン風
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【エンエアロ】 <me> <stpt>
+      - 【/equip】 【メインウェポン】 【プクラトムージュ+1】
+      - 【/equip】 【サブウェポン】 【フォフェンド+1】
+      - 【/equipset】 127 echo 強化600 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 18
-      title: ''
+      title: エン雷
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【エンサンダー】 <me> <stpt>
+      - 【/equip】 【メインウェポン】 【プクラトムージュ+1】
+      - 【/equip】 【サブウェポン】 【フォフェンド+1】
+      - 【/equipset】 127 echo 強化600 <wait 3>
+      - 【/equipset】 132 echo FC待機
       - ''
     - index: 19
       title: ''
@@ -18291,7 +18291,7 @@
     - index: 7
       title: バトゥタ
       lines:
-      - 【/equip】 【頭】 【ＦＵバンド+3】
+      - 【/equip】 【頭】 【ＦＵバンド+4】
       - 【/equip】 【両手】 【ＦＵミトン+3】
       - /ja 【ソードプレイ】 <me> <wait 1>
       - /ja バットゥタ <me> <wait 1>
@@ -18837,7 +18837,7 @@
     - index: 7
       title: バトゥタ
       lines:
-      - 【/equip】 【頭】 【ＦＵバンド+3】
+      - 【/equip】 【頭】 【ＦＵバンド+4】
       - 【/equip】 【両手】 【ＦＵミトン+3】
       - /ja 【ソードプレイ】 <me> <wait 1>
       - /ja バットゥタ <me> <wait 1>
