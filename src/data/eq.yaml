@@ -1,4 +1,4 @@
-# 2025-08-24 20:41:30
+# 2025-09-15 23:36:59
 - index: 1
   title: 001ThfAA
   items:
@@ -3377,9 +3377,9 @@
     slot: 20
     item: マリグナスタバード
   - index: 7
-    storage: 61
-    slot: 64
-    item: クーリスグローブ
+    storage: 53
+    slot: 40
+    item: マリグナスグローブ
   - index: 8
     storage: 53
     slot: 46
@@ -4738,8 +4738,8 @@
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 76
@@ -4805,8 +4805,8 @@
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 76
@@ -4872,16 +4872,16 @@
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 76
     item: エリラズピアス+1
   - index: 14
     storage: 33
-    slot: 69
-    item: 守りの指輪
+    slot: 51
+    item: メランリング
   - index: 15
     storage: 33
     slot: 9
@@ -4939,16 +4939,16 @@
     item: オドンブラサッシュ
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 45
     item: 磁界の耳
   - index: 14
     storage: 33
-    slot: 77
-    item: 守りの指輪
+    slot: 51
+    item: メランリング
   - index: 15
     storage: 33
     slot: 9
@@ -5040,21 +5040,21 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 41
-    slot: 78
-    item: サピエンスオーブ
-  - index: 5
-    storage: 41
-    slot: 51
-    item: ハリタスヘルム
-  - index: 6
     storage: 33
-    slot: 75
-    item: アダマンアーマー
+    slot: 42
+    item: ストンチタスラム+1
+  - index: 5
+    storage: 33
+    slot: 27
+    item: ニャメヘルム
+  - index: 6
+    storage: 61
+    slot: 31
+    item: ＥＲサーコート+3
   - index: 7
     storage: 61
-    slot: 64
-    item: クーリスグローブ
+    slot: 40
+    item: ＦＵミトン+4
   - index: 8
     storage: 33
     slot: 28
@@ -5064,21 +5064,21 @@
     slot: 25
     item: ＥＲグリーヴ+3
   - index: 10
-    storage: 57
-    slot: 71
-    item: 月光の首飾り
+    storage: 61
+    slot: 47
+    item: フサルクトルク+2
   - index: 11
     storage: 33
     slot: 48
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
-    storage: 41
-    slot: 48
-    item: クリプティクピアス
+    storage: 61
+    slot: 66
+    item: エリラズピアス+1
   - index: 14
     storage: 45
     slot: 8
@@ -5140,20 +5140,20 @@
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 45
     item: 磁界の耳
   - index: 14
     storage: 33
-    slot: 77
-    item: 守りの指輪
+    slot: 51
+    item: メランリング
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 49
+    slot: 32
+    item: ヴェクサーリング+1
   - index: 16
     storage: 45
     slot: 48
@@ -5207,8 +5207,8 @@
     item: 無の腰当
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 61
     slot: 66
@@ -5274,8 +5274,8 @@
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 38
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 76
@@ -5341,16 +5341,16 @@
     item: プラチナモグベルト
   - index: 12
     storage: 33
-    slot: 28
-    item: オノワイヤリング+1
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 33
     slot: 76
     item: エリラズピアス+1
   - index: 14
     storage: 33
-    slot: 77
-    item: 守りの指輪
+    slot: 51
+    item: メランリング
   - index: 15
     storage: 33
     slot: 9
@@ -6278,9 +6278,9 @@
     slot: 39
     item: キャリアーサッシュ
   - index: 12
-    storage: 41
-    slot: 40
-    item: オノワイヤリング+1
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 53
     slot: 70
@@ -6345,9 +6345,9 @@
     slot: 39
     item: キャリアーサッシュ
   - index: 12
-    storage: 41
-    slot: 40
-    item: オノワイヤリング+1
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 53
     slot: 70
@@ -6412,9 +6412,9 @@
     slot: 78
     item: オドンブラサッシュ
   - index: 12
-    storage: 41
-    slot: 40
-    item: オノワイヤリング+1
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 41
     slot: 71
@@ -6479,9 +6479,9 @@
     slot: 32
     item: クリードボードリエ
   - index: 12
-    storage: 41
-    slot: 40
-    item: オノワイヤリング+1
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 41
     slot: 48
@@ -6523,8 +6523,8 @@
     item: オディシアヘルム
   - index: 6
     storage: 49
-    slot: 62
-    item: バロラスメイル
+    slot: 73
+    item: オディシアプレート
   - index: 7
     storage: 49
     slot: 15
@@ -6546,17 +6546,17 @@
     slot: 24
     item: オリンポスサッシュ
   - index: 12
-    storage: 41
-    slot: 40
-    item: オノワイヤリング+1
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 45
     slot: 5
     item: ミミルピアス
   - index: 14
     storage: 33
-    slot: 69
-    item: 守りの指輪
+    slot: 51
+    item: メランリング
   - index: 15
     storage: 33
     slot: 9
@@ -6613,9 +6613,9 @@
     slot: 48
     item: プラチナモグベルト
   - index: 12
-    storage: 41
-    slot: 40
-    item: オノワイヤリング+1
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
     storage: 57
     slot: 63
@@ -9471,8 +9471,8 @@
     item: オディシアヘルム
   - index: 6
     storage: 49
-    slot: 68
-    item: バロラスメイル
+    slot: 73
+    item: オディシアプレート
   - index: 7
     storage: 49
     slot: 50
@@ -13159,9 +13159,9 @@
     slot: 35
     item: ＦＵコート+3
   - index: 7
-    storage: 33
-    slot: 29
-    item: ＦＵミトン+3
+    storage: 61
+    slot: 40
+    item: ＦＵミトン+4
   - index: 8
     storage: 61
     slot: 36

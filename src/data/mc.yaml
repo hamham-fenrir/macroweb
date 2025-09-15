@@ -1,4 +1,4 @@
-# 2025-08-24 20:41:43
+# 2025-09-15 23:37:12
 - index: 1
   name: WAR
   palettes:
@@ -6566,30 +6566,30 @@
   - index: 7
     macros:
     - index: 1
-      title: ''
+      title: クラリ
       lines:
-      - ''
-      - ''
+      - /p ◇◇◇【クラリオンコール】使います◇◇◇
+      - /ja 【クラリオンコール】 <me> <stpt>
       - ''
       - ''
       - ''
       - ''
     - index: 2
-      title: ''
+      title: ナイトル
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /p ◇【ナイチンゲール】＆【トルバドゥール】
+      - /jobemote run
+      - 【/equip】 【両足】 【ＢＩスリッパー+3】
+      - 【/equip】 【胴】 【ＢＩジュストコル+4】
+      - /ja 【ナイチンゲール】 <me> <wait 1>
+      - /ja 【トルバドゥール】 <me>
     - index: 3
-      title: ''
+      title: Mメヌ３
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 猛者の【メヌエット】III <stpt>
+      - 【/equipset】 21 echo 【ミラクルチアー】 <wait 2>
+      - 【/equipset】 29 echo 【ファストキャスト】待機移動
+      - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''
       - ''
     - index: 4
@@ -6638,21 +6638,21 @@
       - ''
       - ''
     - index: 9
-      title: 達ラ２ギ
+      title: フィナレ
       lines:
-      - 【/equipset】 33 echo 敵集め【ララバイ】
-      - 【/checkparam】 <me>
-      - /ma 魔物達の【ララバイ】II <t> <wait 2>
-      - 【/equipset】 32 echo 敵集め走
+      - 【/equip】 【レンジウェポン】 【ギャッラルホルン】
+      - 【/equipset】 28 echo 敵歌共通
+      - /ma 魔法の【フィナーレ】 <t>
+      - ''
       - ''
       - ''
     - index: 10
-      title: 達ラ１ギ
+      title: 達ラ１ブ
       lines:
+      - 【/equip】 【レンジウェポン】 【ブラーハープ+1】
       - 【/equipset】 33 echo 敵集め【ララバイ】
-      - 【/checkparam】 <me>
-      - /ma 魔物達の【ララバイ】 <t> <wait 2>
-      - 【/equipset】 32 echo 敵集め走
+      - /ma 魔物達の【ララバイ】 <t>
+      - ''
       - ''
       - ''
     - index: 11
@@ -6665,11 +6665,11 @@
       - ''
       - ''
     - index: 12
-      title: ''
+      title: 敵集め走
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇◇◇敵集め走
+      - 【/equipset】 32 echo 敵集め走
+      - 【/checkparam】 <me>
       - ''
       - ''
       - ''
@@ -6692,22 +6692,22 @@
       - ''
       - ''
     - index: 15
-      title: ''
+      title: Mマン１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 闘羊士の【マンボ】 <stpt>
+      - 【/equipset】 21 echo 【ミラクルチアー】
+      - 【/equip】 【両足】 【ムセスクラッコー+1】 <wait 2>
+      - 【/equipset】 29 echo 【ファストキャスト】待機移動
+      - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''
     - index: 16
-      title: ''
+      title: Mマン２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 闘龍士の【マンボ】 <stpt>
+      - 【/equipset】 21 echo 【ミラクルチアー】
+      - 【/equip】 【両足】 【ムセスクラッコー+1】 <wait 2>
+      - 【/equipset】 29 echo 【ファストキャスト】待機移動
+      - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''
     - index: 17
       title: ピアシモ
@@ -6719,20 +6719,20 @@
       - ''
       - ''
     - index: 18
-      title: ''
+      title: マルカ
       lines:
-      - ''
-      - ''
+      - 【/recast】 マルカート
+      - /ja マルカート <me>
       - ''
       - ''
       - ''
       - ''
     - index: 19
-      title: ''
+      title: エレジ２
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【レンジウェポン】 【ギャッラルホルン】
+      - 【/equipset】 28 echo 敵歌共通
+      - /ma 修羅の【エレジー】 <t>
       - ''
       - ''
       - ''
@@ -17892,8 +17892,8 @@
       - 【/equipset】 141 echo DA100% <wait>
       - 【/equip】 【サブウェポン】 【ブラーシールド+1】
       - 【/equip】 【頭】 【バロラスマスク】 7
-      - 【/equip】 【胴】 【バロラスメイル】 7
-      - 【/equip】 【右手の指】 【シュネデックリング】
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
     - index: 4
       title: イオリ
       lines:
@@ -17901,8 +17901,8 @@
       - /ws 【イオリアンエッジ】 <t> <wait>
       - 【/equipset】 141 echo DA100% <wait>
       - 【/equip】 【頭】 【バロラスマスク】 7
-      - 【/equip】 【胴】 【バロラスメイル】 7
-      - 【/equip】 【右手の指】 【シュネデックリング】
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
     - index: 5
       title: バラモア
       lines:
@@ -17928,8 +17928,8 @@
       - /ws 【ウッコフューリー】 <t> <wait>
       - 【/equipset】 141 echo DA100%
       - 【/equip】 【頭】 【バロラスマスク】 7
-      - 【/equip】 【胴】 【バロラスメイル】 7
-      - 【/equip】 【右手の指】 【シュネデックリング】
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
     - index: 8
       title: 通ウコン
       lines:
@@ -17946,8 +17946,8 @@
       - 【/equip】 【右手の指】 【シュネデックリング】
       - 【/equip】 【左手の指】 【デジョンリング】
       - 【/equip】 【頭】 【バロラスマスク】 7
-      - 【/equip】 【胴】 【バロラスメイル】 7
-      - ''
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
     - index: 10
       title: カギ
       lines:
@@ -18292,7 +18292,7 @@
       title: バトゥタ
       lines:
       - 【/equip】 【頭】 【ＦＵバンド+4】
-      - 【/equip】 【両手】 【ＦＵミトン+3】
+      - 【/equip】 【両手】 【ＦＵミトン+4】
       - /ja 【ソードプレイ】 <me> <wait 1>
       - /ja バットゥタ <me> <wait 1>
       - 【/equipset】 72 echo 待機
@@ -18838,7 +18838,7 @@
       title: バトゥタ
       lines:
       - 【/equip】 【頭】 【ＦＵバンド+4】
-      - 【/equip】 【両手】 【ＦＵミトン+3】
+      - 【/equip】 【両手】 【ＦＵミトン+4】
       - /ja 【ソードプレイ】 <me> <wait 1>
       - /ja バットゥタ <me> <wait 1>
       - 【/equipset】 72 echo 待機
