@@ -1,4 +1,4 @@
-# 2025-09-15 23:37:12
+# 2025-10-12 23:50:34
 - index: 1
   name: WAR
   palettes:
@@ -1097,178 +1097,178 @@
   - index: 7
     macros:
     - index: 1
-      title: 挑発(強)
+      title: ''
       lines:
-      - 【/equipset】 152 echo 敵対心＋
-      - /ja 挑発 <t> <wait>
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 2
-      title: ★宣告★
+      title: ''
       lines:
-      - 【/equip】 【首】 【ニカンダネックレス】
-      - 【/equip】 【左手の指】 【ブレンモドリング+1】 3
-      - 【/equip】 【右手の指】 【ブレンモドリング+1】 4
-      - 【/item】 【聖水】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 3
-      title: バーサク
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ＰＭロリカ+3】
-      - 【/equip】 【両足】 【ＡＧカリガ+3】
-      - /ja 【バーサク】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 4
-      title: 八双
+      title: ''
       lines:
-      - /ja 【八双】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: 黙想
+      title: ''
       lines:
-      - /ja 【黙想】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: トマホク
+      title: ''
       lines:
-      - 【/equip】 【両足】 【ＡＧカリガ+3】
-      - '【/equip】 【矢弾】 【Ｔ．トマホーク】 '
-      - /p ◇【トマホーク】(特殊防御ダウン)→<t>
-      - '/ja 【トマホーク】 <t> <wait 1> '
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 7
-      title: Sウェブ
+      title: ''
       lines:
-      - 【/equipset】 151 echo 魔命
-      - /p ◇【ショックウェーブ】(【スリプガ】)→<t>
-      - /ws 【ショックウェーブ】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 8
-      title: リストレ
+      title: ''
       lines:
-      - /ja 【リストレント】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: ブラッド
+      title: ''
       lines:
-      - /p ◇【ブラッドレイジ】 <recast=【ブラッドレイジ】>
-      - 【/equip】 【胴】 【ＢＩロリカ+3】
-      - /ja 【ブラッドレイジ】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 10
-      title: Dart
+      title: ''
       lines:
-      - 【/equip】 【矢弾】 【ダート】
-      - /p ◇【釣り】→<t>
-      - 【/range】 <t> <wait 2>
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 11
-      title: ラグナ
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【ラグナロク】
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【メインウェポン】 【ラグナロク】
-      - 【/equip】 【サブウェポン】 【ウトゥグリップ】
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: THウェブ
+      title: ''
       lines:
-      - 【/equip】 【頭】 【バロラスマスク】 7
-      - 【/equip】 【両脚】 【ヴォルトホーズ】
-      - 【/equip】 【両足】 【ヴォルトブーツ】
-      - /ws 【ショックウェーブ】 <stnpc>
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
-      title: 心眼
+      title: ''
       lines:
-      - /ja 【心眼】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ★移動
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇移動＆【リジェネ】
-      - 【/equipset】 154 echo 移動＆【リジェネ】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: ★ファラ
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇被【ファランクス】
-      - 【/equipset】 142 echo 被【ファランクス】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: アグレ
+      title: ''
       lines:
-      - 【/equip】 【頭】 【ＰＭマスク+3】
-      - 【/equip】 【胴】 【ＡＧロリカ+3】
-      - /ja 【アグレッサー】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: レゾ
+      title: ''
       lines:
-      - 【/equipset】 145 echo 【サベッジブレード】
-      - 【/checkparam】 <me>
-      - /ws 【レゾルーション】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【矢弾】 【イェットシーラ+1】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 18
-      title: リタリ
+      title: ''
       lines:
-      - 【/equip】 【両手】 【ＰＭマフラ+3】
-      - 【/equip】 【両足】 【ＢＩカリガ+3】
-      - /ja 【リタリエーション】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 19
-      title: クライ
+      title: ''
       lines:
-      - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+4】
-      - /ja 【ウォークライ】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: ラグナ
+      title: ''
       lines:
       - ''
       - ''
@@ -2579,7 +2579,7 @@
       - /p ◇【湾曲】（水・氷）→ <t>
       - 【/equipset】 9 echo 【震天動地の章】【連携】
       - /ja 【震天動地の章】 <me> <wait 1>
-      - /ma 【光門の計】 <t> <wait 4>
+      - /ma 【光門の計】 <t> <wait 5>
       - /ja 【震天動地の章】 <me> <wait 1>
       - /ma 【土門の計】 <t>
     - index: 4
@@ -5487,7 +5487,7 @@
       lines:
       - /p ◇【ナイチンゲール】＆【トルバドゥール】
       - /jobemote run
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】
       - 【/equip】 【胴】 【ＢＩジュストコル+4】
       - /ja 【ナイチンゲール】 <me> <wait 1>
       - /ja 【トルバドゥール】 <me>
@@ -6215,7 +6215,7 @@
       lines:
       - /p ◇【ナイチンゲール】＆【トルバドゥール】
       - /jobemote run
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】
       - 【/equip】 【胴】 【ＢＩジュストコル+4】
       - /ja 【ナイチンゲール】 <me> <wait 1>
       - /ja 【トルバドゥール】 <me>
@@ -6579,7 +6579,7 @@
       lines:
       - /p ◇【ナイチンゲール】＆【トルバドゥール】
       - /jobemote run
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】
       - 【/equip】 【胴】 【ＢＩジュストコル+4】
       - /ja 【ナイチンゲール】 <me> <wait 1>
       - /ja 【トルバドゥール】 <me>
@@ -7224,7 +7224,7 @@
       lines:
       - /ma 剣闘士の【マドリガル】 <stpt>
       - 【/equipset】 27 echo メヌマチマドマンボカロエチュ
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】 <wait 2>
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】 <wait 2>
       - 【/equipset】 29 echo 【ファストキャスト】待機移動
       - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''
@@ -7233,7 +7233,7 @@
       lines:
       - /ma 剣豪の【マドリガル】 <stpt>
       - 【/equipset】 27 echo メヌマチマドマンボカロエチュ
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】 <wait 2>
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】 <wait 2>
       - 【/equipset】 29 echo 【ファストキャスト】待機移動
       - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''
@@ -7385,7 +7385,7 @@
       - 【/equipset】 127 echo 強化600
       - /ma 【ヘイスト】II <me> <wait 5>
       - /ma 【ストライ】II <me> <wait 5>
-      - /ma 【エンエアロ】 <me>
+      - /ma 【エンサンダー】 <me>
     - index: 11
       title: エン武士
       lines:
@@ -9666,45 +9666,45 @@
   - index: 4
     macros:
     - index: 1
-      title: ''
+      title: フラシュ
       lines:
-      - ''
+      - /ma 【フラッシュ】 <t>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 2
-      title: ''
+      title: フルーグ
       lines:
-      - ''
+      - /ja 【フルーグ】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: ''
+      title: ヴァレ単
       lines:
-      - ''
+      - /ja 【ヴァレション】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ''
+      title: ヴァリ範
       lines:
-      - ''
+      - /ja 【ヴァリエンス】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: ソドプレ
       lines:
-      - ''
+      - /ja 【ソードプレイ】 <me>
       - ''
       - ''
       - ''
@@ -9720,102 +9720,102 @@
       - ''
       - ''
     - index: 7
-      title: ''
+      title: イオリ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 187 echo 【イオリアンエッジ】
+      - 【/checkparam】 <me>
+      - /ws 【イオリアンエッジ】 <t> <wait>
+      - 【/equipset】 185 echo 【回避】
+      - 【/echo】 <recast=【フルーグ】> <recast=【ヴァレション】>
       - ''
     - index: 8
-      title: ''
+      title: THイオリ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 186 echo トレハン
+      - 【/checkparam】 <me>
+      - /ws 【イオリアンエッジ】 <t> <wait>
+      - 【/equipset】 185 echo 【回避】
+      - 【/echo】 <recast=【フルーグ】> <recast=【ヴァレション】>
       - ''
     - index: 9
-      title: ''
+      title: 一隻
       lines:
-      - ''
+      - /ja 一隻眼 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 10
-      title: ''
+      title: 陽忍
       lines:
-      - ''
+      - /ja 【陽忍】 <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 11
-      title: ''
+      title: 敵集め
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇◇◇敵集め：TP<tp>
+      - 【/equipset】 185 echo 【回避】
+      - 【/checkparam】 <me>
       - ''
       - ''
       - ''
     - index: 12
-      title: ''
+      title: ルーン火
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 185 echo 【回避】
+      - /ja 【ウンダ】 <me> <wait 6>
+      - /ja 【ウンダ】 <me>
       - ''
       - ''
       - ''
     - index: 13
-      title: ''
+      title: ランスワ
       lines:
-      - ''
-      - ''
+      - /ja スワイプ <t> <wait>
+      - /ja 【ランジ】 <t> <wait>
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: 移動＆D
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇【シュネデックリング】＆【デジョンリング】
+      - 【/equip】 【右手の指】 【シュネデックリング】
+      - 【/equip】 【左手の指】 【デジョンリング】
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: Lock183
       lines:
-      - ''
-      - ''
+      - 【/lockstyleset】 183
+      - /blockhelp on
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: ''
+      title: AA
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇◇◇【オートアタック】
+      - 【/equipset】 183 echo AA
+      - 【/checkparam】 <me>
       - ''
       - ''
       - ''
     - index: 17
-      title: ''
+      title: エヴィ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 184 echo 【ルドラストーム】
+      - 【/checkparam】 <me>
+      - /ws 【エヴィサレーション】 <t> <wait>
+      - 【/equipset】 183 echo AA
       - ''
       - ''
     - index: 18
@@ -9828,23 +9828,23 @@
       - ''
       - ''
     - index: 19
-      title: ''
+      title: TH
       lines:
-      - ''
-      - ''
+      - 【/equipset】 186 echo トレハン
+      - 【/checkparam】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 20
-      title: ''
+      title: Oイオリ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 7 echo 【シーフ】【ファストキャスト】
+      - /ma ヨアヒム <me> <wait 5>
+      - /ma クピピ <me> <wait 5>
+      - /ma コルモル <me> <wait 5>
+      - /ma モンブロー <me> <wait 5>
+      - /ma フェリアスコフィン <me> <wait 5>
   - index: 5
     macros:
     - index: 1
@@ -18302,7 +18302,7 @@
       lines:
       - 【/equip】 【メインウェポン】 【モルゲライ】
       - 【/equip】 【頭】 【ＥＲガレア+3】
-      - 【/equip】 【両脚】 【ＲＮトラウザ+3】
+      - 【/equip】 【両脚】 【ＲＮトラウザ+4】
       - /ja ビベイシャス <me> <wait 1>
       - 【/equipset】 72 echo 待機
       - ''
@@ -18419,7 +18419,7 @@
     - index: 1
       title: ガンビ
       lines:
-      - 【/equip】 【両手】 【ＲＮミトン+3】
+      - 【/equip】 【両手】 【ＲＮミトン+4】
       - /p ◇◇◇【ガンビット】：属性防御ダウン
       - /ja 【ガンビット】 <t> <wait 1>
       - 【/equipset】 72 echo 待機
@@ -21177,10 +21177,10 @@
       - ''
       - ''
     - index: 4
-      title: 命中48
+      title: 攻撃力48
       lines:
       - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【ハンターズロール】 <me>
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
@@ -21894,7 +21894,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデスト <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -21912,7 +21912,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデリジェネ <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -21928,19 +21928,19 @@
     - index: 6
       title: Ｇ攻撃Ｕ
       lines:
-      - 【/equipset】 162 echo 【風水魔法】
-      - /ma ジオフューリー <stpt> <wait 4>
+      - 【/equip】 【頭】 【マーリンフード】 2
+      - 【/equip】 【両手】 【ＢＡミテーヌ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
+      - /ma ジオフューリー <stpt>
+      - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
-      - ''
-      - ''
-      - ''
     - index: 7
       title: ケアル４
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【ケアル】IV <stpt>
       - 【/equipset】 167 echo 【ケアル】
     - index: 8
@@ -22122,7 +22122,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【ケアル】IV <stpt>
       - 【/equipset】 167 echo 【ケアル】
     - index: 8
@@ -22130,7 +22130,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【スリプル】 <stnpc>
       - 【/equipset】 166 echo 【弱体魔法】
@@ -22139,7 +22139,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【スリプル】II <stnpc>
       - 【/equipset】 166 echo 【弱体魔法】
@@ -22258,7 +22258,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデフューリー <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22276,7 +22276,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオフレイル <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22294,7 +22294,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデプレサイス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22303,7 +22303,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデイン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22313,7 +22313,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【ケアル】IV <stpt>
       - 【/equipset】 167 echo 【ケアル】
     - index: 9
@@ -22321,7 +22321,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ディスペル】 <stnpc>
       - 【/equipset】 166 echo 【弱体魔法】
@@ -22358,7 +22358,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【ケアルガ】II <stpt>
       - 【/equipset】 167 echo 【ケアル】
     - index: 14
@@ -22440,7 +22440,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【アスピル】 <stnpc>
       - 【/equipset】 164 echo 【アスピル】
@@ -22449,7 +22449,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【アスピル】II <stnpc>
       - 【/equipset】 164 echo 【アスピル】
@@ -22458,7 +22458,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【アスピル】III <stnpc>
       - 【/equipset】 164 echo 【アスピル】
@@ -22486,7 +22486,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【ケアル】IV <stpt>
       - 【/equipset】 167 echo 【ケアル】
     - index: 8
@@ -22494,7 +22494,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【スリプル】 <stnpc>
       - 【/equipset】 166 echo 【弱体魔法】
@@ -22503,7 +22503,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【スリプル】II <stnpc>
       - 【/equipset】 166 echo 【弱体魔法】
@@ -22512,7 +22512,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ディスペル】 <stnpc>
       - 【/equipset】 166 echo 【弱体魔法】
@@ -22575,7 +22575,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデイン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22622,7 +22622,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデヘイスト <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22640,7 +22640,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデアキュメン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22658,7 +22658,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオマレーズ <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22668,7 +22668,7 @@
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【ケアル】IV <stpt>
       - 【/equipset】 167 echo 【ケアル】
     - index: 8
@@ -22719,12 +22719,12 @@
     - index: 13
       title: Ｇヘイス
       lines:
-      - 【/equipset】 162 echo 【風水魔法】
-      - /ma ジオヘイスト <stpc> <wait 2>
+      - 【/equip】 【頭】 【マーリンフード】 2
+      - 【/equip】 【両手】 【ＢＡミテーヌ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
+      - /ma ジオヘイスト <stpt>
+      - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
-      - ''
-      - ''
-      - ''
     - index: 14
       title: サイクル
       lines:
@@ -22795,7 +22795,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデリフレシュ <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -22813,7 +22813,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ストーン】V <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22822,7 +22822,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ストーン】IV <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22831,7 +22831,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ストーン】III <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22849,7 +22849,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ブリザド】V <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22858,7 +22858,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ブリザド】IV <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22867,7 +22867,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ブリザド】III <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22939,7 +22939,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ウォータ】V <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22948,7 +22948,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ウォータ】IV <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22957,7 +22957,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ウォータ】III <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -22995,7 +22995,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ファイア】V <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23004,7 +23004,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ファイア】IV <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23013,7 +23013,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【ファイア】III <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23031,7 +23031,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【サンダー】V <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23040,7 +23040,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【サンダー】IV <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23049,7 +23049,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【サンダー】III <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23077,7 +23077,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - 【/equip】 【腰】 【神術帯+1】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma 【カーズナ】 <stpt>
       - 【/equipset】 15 echo 【カーズナ】（学者）
     - index: 13
@@ -23121,7 +23121,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【エアロ】V <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23130,7 +23130,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【エアロ】IV <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23139,7 +23139,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - 【/equip】 【背】 【ナントセルタケープ】 2
       - /ma 【エアロ】III <stnpc>
       - 【/equipset】 165 echo 【精霊魔法】
@@ -23177,7 +23177,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデバリア <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23186,7 +23186,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオウィルト <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23350,7 +23350,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオプレサイス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23359,7 +23359,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオフューリー <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23368,7 +23368,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオヴォイダンス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23377,7 +23377,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオバリア <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23386,7 +23386,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオフォーカス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23395,7 +23395,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオアキュメン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23404,7 +23404,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオアトゥーン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23413,7 +23413,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオフェンド <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23440,7 +23440,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオスリップ <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23449,7 +23449,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオウィルト <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23458,7 +23458,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオトーパー <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23467,7 +23467,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオフレイル <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23476,7 +23476,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオヴェックス <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23485,7 +23485,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオフェイド <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23494,7 +23494,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオランゴール <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23503,7 +23503,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma ジオマレーズ <stnpc>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23523,7 +23523,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデヘイスト <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23532,7 +23532,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデプレサイス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23541,7 +23541,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデフューリー <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23550,7 +23550,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデヴォイダンス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23559,7 +23559,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデバリア <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23568,7 +23568,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデフォーカス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23577,7 +23577,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデアキュメン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23586,7 +23586,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデアトゥーン <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23595,7 +23595,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデフェンド <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23613,7 +23613,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデリフレシュ <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23622,7 +23622,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデスリップ <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23631,7 +23631,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデウィルト <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23640,7 +23640,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデトーパー <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23649,7 +23649,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデフレイル <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23658,7 +23658,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデヴェックス <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23667,7 +23667,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデフェイド <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23676,7 +23676,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデランゴール <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -23685,7 +23685,7 @@
       lines:
       - 【/equip】 【頭】 【マーリンフード】 2
       - 【/equip】 【両手】 【ＢＡミテーヌ+3】
-      - 【/equip】 【両脚】 【ＧＯパンツ+3】
+      - 【/equip】 【両脚】 【ＧＯパンツ+4】
       - /ma インデマレーズ <stpt>
       - 【/equipset】 162 echo 【風水魔法】 <wait 2>
       - 【/equipset】 163 echo 羅盤【リジェネ】
@@ -34847,7 +34847,7 @@
       - /p ◇【湾曲】（水・氷）→ <t>
       - 【/equipset】 9 echo 【震天動地の章】【連携】
       - /ja 【震天動地の章】 <me> <wait 1>
-      - /ma 【光門の計】 <t> <wait 4>
+      - /ma 【光門の計】 <t> <wait 5>
       - /ja 【震天動地の章】 <me> <wait 1>
       - /ma 【土門の計】 <t>
     - index: 4
@@ -35211,7 +35211,7 @@
       - /p ◇【湾曲】（水・氷）→ <t>
       - 【/equipset】 9 echo 【震天動地の章】【連携】
       - /ja 【震天動地の章】 <me> <wait 1>
-      - /ma 【光門の計】 <t> <wait 4>
+      - /ma 【光門の計】 <t> <wait 5>
       - /ja 【震天動地の章】 <me> <wait 1>
       - /ma 【土門の計】 <t>
     - index: 4
@@ -41947,7 +41947,7 @@
       lines:
       - /ma 剣豪の【マドリガル】 <stpt>
       - 【/equipset】 27 echo メヌマチマドマンボカロエチュ
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】 <wait 2>
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】 <wait 2>
       - 【/equipset】 29 echo 【ファストキャスト】待機移動
       - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''
@@ -41956,7 +41956,7 @@
       lines:
       - /ma 剣闘士の【マドリガル】 <stpt>
       - 【/equipset】 27 echo メヌマチマドマンボカロエチュ
-      - 【/equip】 【両足】 【ＢＩスリッパー+3】 <wait 2>
+      - 【/equip】 【両足】 【ＢＩスリッパー+4】 <wait 2>
       - 【/equipset】 29 echo 【ファストキャスト】待機移動
       - 【/echo】 ◇◇◇【ファストキャスト】待機移動
       - ''

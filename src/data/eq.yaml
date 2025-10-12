@@ -1,4 +1,4 @@
-# 2025-09-15 23:36:59
+# 2025-10-12 23:50:20
 - index: 1
   title: 001ThfAA
   items:
@@ -1779,7 +1779,7 @@
   - index: 9
     storage: 33
     slot: 13
-    item: ＢＩスリッパー+3
+    item: ＢＩスリッパー+4
   - index: 10
     storage: 45
     slot: 42
@@ -2516,7 +2516,7 @@
   - index: 9
     storage: 33
     slot: 13
-    item: ＢＩスリッパー+3
+    item: ＢＩスリッパー+4
   - index: 10
     storage: 45
     slot: 42
@@ -6398,7 +6398,7 @@
   - index: 8
     storage: 57
     slot: 50
-    item: ＣＢブリーチズ+3
+    item: ＣＢブリーチズ+4
   - index: 9
     storage: 57
     slot: 37
@@ -6463,9 +6463,9 @@
     slot: 3
     item: ＣＢガントレ+3
   - index: 8
-    storage: 53
-    slot: 29
-    item: ＣＢブリーチズ+3
+    storage: 57
+    slot: 50
+    item: ＣＢブリーチズ+4
   - index: 9
     storage: 53
     slot: 1
@@ -6599,7 +6599,7 @@
   - index: 8
     storage: 57
     slot: 50
-    item: ＣＢブリーチズ+3
+    item: ＣＢブリーチズ+4
   - index: 9
     storage: 57
     slot: 37
@@ -10751,9 +10751,9 @@
     slot: 44
     item: アグゥゲージ
   - index: 8
-    storage: 61
-    slot: 54
-    item: ＧＯパンツ+3
+    storage: 33
+    slot: 36
+    item: ＧＯパンツ+4
   - index: 9
     storage: 61
     slot: 65
@@ -12194,7 +12194,7 @@
     slot: 32
     item: メシストピンマント
 - index: 183
-  title: Set183
+  title: 183NinAA
   items:
   - index: 1
     storage: 0
@@ -12209,59 +12209,59 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 1
+    slot: 34
+    item: 伊達手裏剣
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 14
+    item: マリグナスシャポー
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 20
+    item: マリグナスタバード
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 40
+    item: マリグナスグローブ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 46
+    item: マリグナスタイツ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 49
+    item: マリグナスブーツ
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 44
+    item: 忍者の喉輪+2
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 48
+    item: セールフィベルト+1
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 67
+    item: テロスピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 14
+    item: ブルタルピアス
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 6
+    item: エポナリング
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 57
+    slot: 21
+    item: ゲリリング
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 25
+    item: 無の外装
 - index: 184
-  title: Set184
+  title: 184NinDEX
   items:
   - index: 1
     storage: 0
@@ -12276,126 +12276,126 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 1
+    slot: 34
+    item: 伊達手裏剣
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 21
+    item: ムパカキャップ
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 39
+    item: ムパカダブレット
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 42
+    item: ムパカグローブ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 54
+    item: ムパカホーズ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 62
+    item: ムパカブーツ
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 44
+    item: 忍者の喉輪+2
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 6
+    item: ケンタークベルト+1
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 7
+    item: オドルピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 17
+    item: 胡蝶のイヤリング
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 3
+    item: イラブラットリング
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 49
+    item: 王将の指輪
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 25
+    item: 無の外装
 - index: 185
-  title: Set185
+  title: 185NinEva
   items:
   - index: 1
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 32
+    item: トーレット
   - index: 2
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 45
+    slot: 78
+    item: 微塵
   - index: 3
     storage: 0
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 1
+    slot: 34
+    item: 伊達手裏剣
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 47
+    item: 無の面
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 1
+    item: ニャメメイル
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 71
+    item: ニャメガントレ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 55
+    item: ニャメフランチャ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 8
+    item: ニャメソルレット
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 71
+    item: バーシチョーカー+1
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 44
+    item: 無の腰当
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 66
+    item: インフューズピアス
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 77
+    item: 守りの指輪
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 64
+    item: ヴェンジフルリング
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 25
+    item: 無の外装
 - index: 186
-  title: Set186
+  title: 186NinTH4
   items:
   - index: 1
     storage: 0
@@ -12410,59 +12410,59 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 1
+    slot: 34
+    item: 伊達手裏剣
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 28
+    item: ヘルクリアヘルム
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 1
+    item: ニャメメイル
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 56
+    item: ヴォルトブレーサー
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 55
+    item: ニャメフランチャ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 72
+    item: ヴォルトブーツ
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 71
+    item: バーシチョーカー+1
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 44
+    item: 無の腰当
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 74
+    item: アスプロピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 66
+    item: インフューズピアス
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 77
+    item: 守りの指輪
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 64
+    item: ヴェンジフルリング
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 25
+    item: 無の外装
 - index: 187
-  title: Set187
+  title: 187NinAE
   items:
   - index: 1
     storage: 0
@@ -12477,57 +12477,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 1
+    slot: 34
+    item: 伊達手裏剣
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 27
+    item: ニャメヘルム
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 1
+    item: ニャメメイル
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 71
+    item: ニャメガントレ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 55
+    item: ニャメフランチャ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 8
+    item: ニャメソルレット
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 71
+    item: バーシチョーカー+1
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 63
+    item: オルペウスサッシュ
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 60
+    item: フリオミシピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 17
+    item: 胡蝶のイヤリング
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 22
+    item: メダダリング
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 65
+    item: エパミノダスリング
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 25
+    item: 無の外装
 - index: 188
   title: BLM
   items:
@@ -12828,9 +12828,9 @@
     slot: 3
     item: ＣＢガントレ+3
   - index: 8
-    storage: 53
-    slot: 29
-    item: ＣＢブリーチズ+3
+    storage: 57
+    slot: 50
+    item: ＣＢブリーチズ+4
   - index: 9
     storage: 53
     slot: 1
