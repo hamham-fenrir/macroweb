@@ -1,4 +1,4 @@
-# 2025-10-12 23:50:34
+# 2025-11-10 00:14:19
 - index: 1
   name: WAR
   palettes:
@@ -942,13 +942,13 @@
       - ''
       - ''
     - index: 4
-      title: ディフェ
+      title: ミスト
       lines:
-      - 【/equip】 【両手】 【ＡＧマフラ+3】
-      - /ja 【ディフェンダー】 <me> <wait 1>
+      - 【/equipset】 145 echo 【サベッジブレード】
+      - 【/checkparam】 <me>
+      - /ws 【ミストラルアクス】 <t> <wait>
       - 【/equipset】 141 echo DA100%
-      - ''
-      - ''
+      - 【/equip】 【矢弾】 【コイストボダー】
       - ''
     - index: 5
       title: 黙想
@@ -2561,7 +2561,7 @@
       - 【/echo】 <recast=【戦術魔道書】>
       - 【/grin】 motion <stnpc>
       - 【/equipset】 9 echo 【震天動地の章】【連携】
-      - /p ◇震天連携開始 → <lastst>
+      - /p ◇震天連携準備 → <lastst>
       - ''
       - ''
     - index: 2
@@ -9666,45 +9666,45 @@
   - index: 4
     macros:
     - index: 1
-      title: フラシュ
+      title: ''
       lines:
-      - /ma 【フラッシュ】 <t>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 2
-      title: フルーグ
+      title: ''
       lines:
-      - /ja 【フルーグ】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: ヴァレ単
+      title: ''
       lines:
-      - /ja 【ヴァレション】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ヴァリ範
+      title: ''
       lines:
-      - /ja 【ヴァリエンス】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ソドプレ
+      title: ''
       lines:
-      - /ja 【ソードプレイ】 <me>
+      - ''
       - ''
       - ''
       - ''
@@ -9720,102 +9720,102 @@
       - ''
       - ''
     - index: 7
-      title: イオリ
+      title: ''
       lines:
-      - 【/equipset】 187 echo 【イオリアンエッジ】
-      - 【/checkparam】 <me>
-      - /ws 【イオリアンエッジ】 <t> <wait>
-      - 【/equipset】 185 echo 【回避】
-      - 【/echo】 <recast=【フルーグ】> <recast=【ヴァレション】>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 8
-      title: THイオリ
+      title: ''
       lines:
-      - 【/equipset】 186 echo トレハン
-      - 【/checkparam】 <me>
-      - /ws 【イオリアンエッジ】 <t> <wait>
-      - 【/equipset】 185 echo 【回避】
-      - 【/echo】 <recast=【フルーグ】> <recast=【ヴァレション】>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 9
-      title: 一隻
+      title: ''
       lines:
-      - /ja 一隻眼 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 10
-      title: 陽忍
+      title: ''
       lines:
-      - /ja 【陽忍】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 11
-      title: 敵集め
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇敵集め：TP<tp>
-      - 【/equipset】 185 echo 【回避】
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 12
-      title: ルーン火
+      title: ''
       lines:
-      - 【/equipset】 185 echo 【回避】
-      - /ja 【ウンダ】 <me> <wait 6>
-      - /ja 【ウンダ】 <me>
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 13
-      title: ランスワ
+      title: ''
       lines:
-      - /ja スワイプ <t> <wait>
-      - /ja 【ランジ】 <t> <wait>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: 移動＆D
+      title: ''
       lines:
-      - 【/echo】 ◇【シュネデックリング】＆【デジョンリング】
-      - 【/equip】 【右手の指】 【シュネデックリング】
-      - 【/equip】 【左手の指】 【デジョンリング】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: Lock183
+      title: ''
       lines:
-      - 【/lockstyleset】 183
-      - /blockhelp on
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: AA
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【オートアタック】
-      - 【/equipset】 183 echo AA
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 17
-      title: エヴィ
+      title: ''
       lines:
-      - 【/equipset】 184 echo 【ルドラストーム】
-      - 【/checkparam】 <me>
-      - /ws 【エヴィサレーション】 <t> <wait>
-      - 【/equipset】 183 echo AA
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
@@ -9828,23 +9828,23 @@
       - ''
       - ''
     - index: 19
-      title: TH
+      title: ''
       lines:
-      - 【/equipset】 186 echo トレハン
-      - 【/checkparam】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 20
-      title: Oイオリ
+      title: ''
       lines:
-      - 【/equipset】 7 echo 【シーフ】【ファストキャスト】
-      - /ma ヨアヒム <me> <wait 5>
-      - /ma クピピ <me> <wait 5>
-      - /ma コルモル <me> <wait 5>
-      - /ma モンブロー <me> <wait 5>
-      - /ma フェリアスコフィン <me> <wait 5>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 5
     macros:
     - index: 1
@@ -10788,7 +10788,7 @@
       title: bt
       lines:
       - 【/target】 <bt>
-      - 【/attack】
+      - 【/attack】 on
       - ''
       - ''
       - ''
@@ -26073,48 +26073,48 @@
   - index: 4
     macros:
     - index: 1
-      title: Aフラ
+      title: ''
       lines:
-      - /ja 【A.フラリッシュ】 <t>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 2
-      title: ボックス
+      title: ''
       lines:
-      - /ja 【ボックスステップ】 <t>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: ケアル３
+      title: ''
       lines:
-      - /ja 【ケアルワルツ】III <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: たたかえ
+      title: ''
       lines:
-      - 【/recast】 【たたかえ】
-      - 【/pet】 【たたかえ】 <t>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: レイジ
+      title: ''
       lines:
-      - 【/recast】 【しじをさせろ】
-      - /【/grin】 motion <me> <stpt>
-      - 【/pet】 レイジ <me> <wait>
-      - 【/echo】 <recast=レイジ>
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 6
@@ -26127,11 +26127,11 @@
       - ''
       - ''
     - index: 7
-      title: サベッジ
+      title: ''
       lines:
-      - 【/equipset】 182 echo 【サベッジブレード】
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 181 echo 【オートアタック】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -26163,11 +26163,193 @@
       - ''
       - ''
     - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 5
+    macros:
+    - index: 1
+      title: 暗闇２
+      lines:
+      - 【/equip】 【右手の指】 【メダダリング】
+      - 【/equip】 【左手の指】 【レベッチェリング】
+      - 【/equip】 【首】 【オルンミラトルク】
+      - 【/equip】 【左耳】 【ロケイシャスピアス】
+      - /ma 【暗闇の術】:弐 <stnpc>
+      - 【/equipset】 181 echo 【オートアタック】
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: シプソン
+      lines:
+      - 【/recast】 【しじをさせろ】
+      - 【/equip】 【両脚】 【グレティブリーチズ】
+      - 【/pet】 【シープソング】 <me> <wait>
+      - 【/equipset】 181 echo 【オートアタック】
+      - 【/echo】 <recast=【シープソング】>
+      - ''
+    - index: 4
+      title: たたかえ
+      lines:
+      - 【/recast】 【たたかえ】
+      - 【/equip】 【頭】 【バロラスマスク】 7
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
+      - 【/pet】 【たたかえ】 <t> <wait>
+      - 【/equipset】 181 echo 【オートアタック】
+    - index: 5
+      title: レイジ
+      lines:
+      - 【/recast】 【しじをさせろ】
+      - 【/equip】 【両脚】 【グレティブリーチズ】
+      - 【/pet】 レイジ <me> <wait>
+      - 【/equipset】 181 echo 【オートアタック】
+      - 【/echo】 <recast=レイジ>
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: サベッジ
+      lines:
+      - 【/equipset】 182 echo 【サベッジブレード】
+      - 【/checkparam】 <me>
+      - /ws 【サベッジブレード】 <t> <wait>
+      - 【/equipset】 181 echo 【オートアタック】
+      - 【/recast】 【しじをさせろ】
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: 空蝉１
+      lines:
+      - 【/equip】 【右手の指】 【メダダリング】
+      - 【/equip】 【左手の指】 【レベッチェリング】
+      - 【/equip】 【首】 【オルンミラトルク】
+      - 【/equip】 【左耳】 【ロケイシャスピアス】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 181 echo 【オートアタック】
+    - index: 10
+      title: 空蝉２
+      lines:
+      - 【/equip】 【右手の指】 【メダダリング】
+      - 【/equip】 【左手の指】 【レベッチェリング】
+      - 【/equip】 【首】 【オルンミラトルク】
+      - 【/equip】 【左耳】 【ロケイシャスピアス】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 181 echo 【オートアタック】
+    - index: 11
       title: AA
       lines:
       - 【/equipset】 181 echo 【オートアタック】
       - 【/checkparam】 <me>
-      - ''
+      - 【/recast】 【しじをさせろ】
       - ''
       - ''
       - ''
@@ -26181,19 +26363,19 @@
       - 【/equipset】 181 echo 【オートアタック】
       - ''
     - index: 13
-      title: まってろ
+      title: 移動中止
       lines:
       - 【/recast】 【まってろ】
-      - 【/pet】 【まってろ】 <me> <stpt>
+      - 【/pet】 【まってろ】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: もどれ
+      title: 攻撃中止
       lines:
       - 【/recast】 【もどれ】
-      - 【/pet】 【もどれ】 <me> <stpt>
+      - 【/pet】 【もどれ】 <me>
       - ''
       - ''
       - ''
@@ -26220,10 +26402,10 @@
       title: サベッジ
       lines:
       - 【/equipset】 182 echo 【サベッジブレード】
+      - 【/checkparam】 <me>
       - /ws 【サベッジブレード】 <t> <wait>
       - 【/equipset】 181 echo 【オートアタック】
-      - ''
-      - ''
+      - 【/recast】 【しじをさせろ】
       - ''
     - index: 18
       title: ★移動
@@ -26231,189 +26413,7 @@
       - 【/echo】 ◇【デジョンリング】＆【シュネデックリング】
       - 【/equip】 【右手の指】 【デジョンリング】
       - 【/equip】 【左手の指】 【シュネデックリング】
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: スペジグ
-      lines:
-      - /ja 【スペクトラルジグ】 <me>
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 5
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/recast】 【しじをさせろ】
       - ''
       - ''
     - index: 19
@@ -26426,14 +26426,14 @@
       - ''
       - ''
     - index: 20
-      title: ''
+      title: 詰み
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 7 echo 【シーフ】【ファストキャスト】
+      - /ma ヴァレンラール <me> <wait 5>
+      - /ma ヨアヒム <me> <wait 5>
+      - /ma キング・オブ・ハーツ <me> <wait 5>
+      - /ma ユグナス <me> <wait 5>
+      - /ma モンブロー <me>
   - index: 6
     macros:
     - index: 1
@@ -29290,11 +29290,11 @@
       - ''
       - ''
     - index: 14
-      title: ★移動
+      title: 移動＆D
       lines:
-      - 【/echo】 ◇【シュネデックリング】
+      - 【/echo】 ◇【シュネデックリング】＆【デジョンリング】
       - 【/equip】 【右手の指】 【シュネデックリング】
-      - ''
+      - 【/equip】 【左手の指】 【デジョンリング】
       - ''
       - ''
       - ''
@@ -29344,13 +29344,13 @@
       - /ma 【ドレッドスパイク】 <me>
       - 【/equipset】 178 echo AA
     - index: 20
-      title: ''
+      title: TH
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【アダマンアーマー】
+      - 【/equip】 【頭】 【バロラスマスク】 7
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
+      - 【/echo】 【トレジャーハンター】
       - ''
   - index: 2
     macros:
